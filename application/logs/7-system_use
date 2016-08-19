@@ -1,0 +1,66 @@
+2016-05-01 17:44:31|192.168.0.31|logged into the system%
+2016-05-01 17:50:08|::1|logged into the system%
+2016-05-01 17:56:25|::1|logged out of the system%
+2016-05-02 00:38:31|::1|logged into the system%
+2016-05-02 00:47:24|::1|Registered into system :: Equipment no. TEST_EQ_NO_1%
+2016-05-02 00:47:24|::1|Registered equipment No. TEST_EQ_NO_1%
+2016-05-02 00:48:10|::1|Registered into system :: Equipment no. TEST_EQ_NO_2%
+2016-05-02 00:48:10|::1|Registered equipment No. TEST_EQ_NO_2%
+2016-05-02 01:25:40|::1|logged out of the system%
+2016-05-02 01:27:55|::1|logged into the system%
+2016-05-02 01:49:08|::1|Assembly initialized :: Equipment no. TEST_EQ_NO_1%
+2016-05-02 02:00:55|::1|Assembly initialized :: Equipment no. TEST_EQ_NO_2%
+2016-05-02 02:20:26|::1|logged out of the system%
+2016-05-02 10:19:17|::1|logged into the system%
+2016-05-02 10:21:35|::1|Requested assets from another store%
+2016-05-02 10:22:07|::1|logged out of the system%
+2016-05-02 10:33:09|::1|logged into the system%
+2016-05-02 12:40:28|::1|logged out of the system%
+2016-05-02 15:59:18|::1|logged into the system%
+2016-05-02 16:00:11|::1|logged out of the system%
+2016-05-02 16:10:39|::1|logged into the system%
+2016-05-02 16:11:00|::1|logged out of the system%
+2016-05-02 16:15:15|::1|logged into the system%
+2016-05-02 16:15:50|::1|Requested assets from another store%
+2016-05-02 16:15:53|::1|logged out of the system%
+2016-05-02 16:17:14|::1|logged into the system%
+2016-05-02 16:18:29|::1|Registered into system :: Equipment no. TEST_EQ_NO_3%
+2016-05-02 16:18:29|::1|Registered equipment No. TEST_EQ_NO_3%
+2016-05-02 16:19:03|::1|Assembly initialized :: Equipment no. TEST_EQ_NO_3%
+2016-05-02 16:28:09|::1|logged out of the system%
+2016-05-02 16:30:52|::1|logged into the system%
+2016-05-02 17:53:55|::1|assembly testing initialized :: Equipment no. TEST_EQ_NO_1%
+2016-05-02 17:56:26|::1|logged out of the system%
+2016-05-02 17:58:32|::1|logged into the system%
+2016-05-02 21:40:44|::1|logged out of the system%
+2016-05-02 23:26:10|::1|logged into the system%
+2016-05-02 23:26:43|::1|assembly testing initialized :: Equipment no. TEST_EQ_NO_2%
+2016-05-03 00:20:22|::1|Trashed project No. 4%
+2016-05-03 00:20:26|::1|Recovered project No. 4%
+2016-05-03 00:20:30|::1|Trashed project No. 4%
+2016-05-03 00:20:35|::1|Recovered project No. 4%
+2016-05-03 04:25:33|::1|logged out of the system%
+2016-05-03 18:01:50|::1|logged into the system%
+2016-05-04 05:43:57|::1|logged into the system%
+2016-05-04 05:44:34|::1|logged out of the system%
+2016-05-10 14:33:04|::1|logged into the system%
+2016-05-10 14:33:47|::1|Registered into system :: Equipment no. EQUIP_XX_11%
+2016-05-10 14:33:47|::1|Registered equipment No. EQUIP_XX_11%
+2016-05-10 14:35:15|::1|logged out of the system%
+2016-05-10 15:10:09|192.168.0.90|logged into the system%
+2016-05-10 15:12:29|192.168.0.90|logged out of the system%
+2016-05-10 15:13:24|192.168.0.90|logged into the system%
+2016-05-10 15:14:27|192.168.0.90|Assembly initialized :: Equipment no. EQUIP_XX_11%
+2016-05-10 15:16:29|192.168.0.90|logged out of the system%
+2016-05-10 15:21:12|192.168.0.90|logged into the system%
+2016-05-10 15:22:25|192.168.0.90|Requested assets from another store%
+2016-05-10 15:22:48|192.168.0.90|logged out of the system%
+2016-05-10 15:25:28|192.168.0.90|logged into the system%
+2016-05-10 15:27:02|192.168.0.90|logged out of the system%
+2016-05-10 15:32:25|192.168.0.90|logged into the system%
+2016-05-10 15:34:48|192.168.0.90|logged out of the system%
+2016-05-10 15:35:36|192.168.0.90|logged into the system%
+2016-05-10 15:36:27|192.168.0.90|assembly testing initialized :: Equipment no. EQUIP_XX_11%
+2016-05-10 15:37:10|192.168.0.90|logged out of the system%
+2016-05-10 15:45:10|192.168.0.90|logged into the system%
+2016-05-10 15:45:18|192.168.0.90|logged out of the system%

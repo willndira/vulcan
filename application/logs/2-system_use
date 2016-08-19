@@ -1,0 +1,25 @@
+2016-05-02 02:07:37|::1|logged into the system%
+2016-05-02 02:46:54|::1|Assembly task Creating a new test task created :: Equipment no. TEST_EQ_NO_2%
+2016-05-02 02:48:36|::1|Assembly task Creating a new test task created :: Equipment no. TEST_EQ_NO_2%
+2016-05-02 02:51:08|::1|Assembly task Creating a new test task created :: Equipment no. TEST_EQ_NO_2%
+2016-05-02 02:52:21|::1|Assembly task Creating a new test task created :: Equipment no. TEST_EQ_NO_2%
+2016-05-02 05:47:41|::1|logged into the system%
+2016-05-02 09:44:23|::1|logged into the system%
+2016-05-02 10:36:29|::1|Assembly process marked complete :: Equipment no. TEST_EQ_NO_2%
+2016-05-02 11:36:03|::1|Assembly task Creating a new task created :: Equipment no. TEST_EQ_NO_1%
+2016-05-02 11:40:32|::1|Assembly task Request components created :: Equipment no. TEST_EQ_NO_1%
+2016-05-02 11:44:42|::1|Assembly process marked complete :: Equipment no. TEST_EQ_NO_1%
+2016-05-02 16:01:51|::1|logged into the system%
+2016-05-02 16:19:22|::1|logged out of the system%
+2016-05-02 16:20:22|::1|logged into the system%
+2016-05-02 17:09:47|::1|logged out of the system%
+2016-05-02 21:49:43|::1|logged into the system%
+2016-05-02 21:50:08|::1|logged out of the system%
+2016-05-10 15:16:53|192.168.0.90|logged into the system%
+2016-05-10 15:18:33|192.168.0.90|Assembly task What is this? created :: Equipment no. EQUIP_XX_11%
+2016-05-10 15:21:10|192.168.0.90|logged out of the system%
+2016-05-10 15:27:08|192.168.0.90|logged into the system%
+2016-05-10 15:27:09|192.168.0.90|logged into the system%
+2016-05-10 15:29:09|192.168.0.90|Assembly task ETR Printer TASK created :: Equipment no. EQUIP_XX_11%
+2016-05-10 15:30:23|192.168.0.90|Assembly process marked complete :: Equipment no. EQUIP_XX_11%
+2016-05-10 15:32:14|192.168.0.90|logged out of the system%

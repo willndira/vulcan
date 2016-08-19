@@ -1,0 +1,31 @@
+.dark-primary-color {
+    background: #388e3c !important;
+}
+
+.white-bg {
+    background: #FFFFFF !important;
+}
+
+.default-primary-color {
+    background: #388E3C !important;
+}
+
+.accent-color {
+    background: #FF6601 !important;
+}
+
+.primary-text-color {
+    color: #212121;
+}
+
+.secondary-text-color {
+    color: #FF6601;
+}
+
+.divider-color {
+    border-color: #B6B6B6;
+}
+
+.text-success {
+    color: #388E3C !important;
+}

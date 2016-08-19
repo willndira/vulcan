@@ -1,0 +1,3243 @@
+2016-04-10 09:56:11|127.0.0.1|Failed to send email to murungijnr@gmail.comERROR:: The following SMTP error was encountered: 0 php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution<br />Unable to send data: AUTH LOGIN<br />Failed to send AUTH LOGIN command. Error: <br />Unable to send data: MAIL FROM:<wkmania1@gmail.com><br /><pre>from: </pre>The following SMTP error was encountered: <br />Unable to send data: RCPT TO:<murungijnr@gmail.com><br /><pre>to: </pre>The following SMTP error was encountered: <br />Unable to send data: DATA<br /><pre>data: </pre>The following SMTP error was encountered: <br />Unable to send data: User-Agent: CodeIgniter
+Date: Sun, 10 Apr 2016 09:56:11 -0400
+From: "KAPS Vulcan" <wkmania1@gmail.com>
+Return-Path: <wkmania1@gmail.com>
+To: murungijnr@gmail.com
+Subject: =?iso-8859-1?Q?Assembly_assignment?=
+Reply-To: "wkmania1@gmail.com" <wkmania1@gmail.com>
+X-Sender: wkmania1@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: <570a5b7bf05a1@gmail.com>
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="B_ALT_570a5b7bf05de"
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_570a5b7bf05de
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+KAPS VulcanHello Assembly Tester, Murungi Wilson has assigned you assembly
+management task for Equipment due on 2016-05-10 For more details please log
+on to your KAPS Vulcan portalKAPS Vulcan DisclamerThis email message and any
+file(s) transmitted with it is intended solely for the individual or entity
+to whom it is addressed and may contain confidential and/or legally
+privileged information which confidentiality and/or privilege is not lost or
+waived by reason of mistaken transmission . If you have received this
+message by error you are not authorized to view disseminate distribute or
+copy the message without the written consent of KAPS and are requested to
+contact the sender by telephone or e-mail and destroy the original.
+AlthoughKAPStakes all reasonable precautions to ensure that this message and
+any file transmitted with it is virus free, KAPS accepts no liability for
+any damage that may be caused by any virus transmitted by this email.
+
+
+--B_ALT_570a5b7bf05de
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<h2 style=3D"text-align: center; color: #ff6601">KAPS Vulcan</h2>Hello <b>A=
+ssembly Tester, </b><br/>Murungi Wilson has assigned you assembly managemen=
+t task for Equipment due on 2016-05-10<p> For more details please log on to=
+ your <a href =3D"http://localhost/VULCAN/index.php"> KAPS Vulcan </a> port=
+al</p><p>KAPS Vulcan</p><div style =3D "font-style:italic; color:#607D8B; b=
+order-top:2px dashed;"><h4> Disclamer</h4><p>This email message and any fil=
+e(s) transmitted with it is intended solely for the individual or entity to=
+ whom it is addressed and may contain confidential and/or legally privilege=
+d information which confidentiality and/or privilege is not lost or waived =
+by reason of mistaken transmission . If you have received this message by e=
+rror you are not authorized to view disseminate distribute or copy the mess=
+age without the written consent of KAPS and are requested to contact the se=
+nder by telephone or e-mail and destroy the original. AlthoughKAPStakes all=
+ reasonable precautions to ensure that this message and any file transmitte=
+d with it is virus free, KAPS accepts no liability for any damage that may =
+be caused by any virus transmitted by this email.</p></div>
+
+--B_ALT_570a5b7bf05de--<br />Unable to send data: .<br /><br />The following SMTP error was encountered: <br />Unable to send email using PHP SMTP.  Your server might not be configured to send mail using this method.<br /><pre>User-Agent: CodeIgniter
+Date: Sun, 10 Apr 2016 09:56:11 -0400
+From: &quot;KAPS Vulcan&quot; &lt;wkmania1@gmail.com&gt;
+Return-Path: &lt;wkmania1@gmail.com&gt;
+To: murungijnr@gmail.com
+Subject: =?iso-8859-1?Q?Assembly_assignment?=
+Reply-To: &quot;wkmania1@gmail.com&quot; &lt;wkmania1@gmail.com&gt;
+X-Sender: wkmania1@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;570a5b7bf05a1@gmail.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_570a5b7bf05de&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_570a5b7bf05de
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+KAPS VulcanHello Assembly Tester, Murungi Wilson has assigned you assembly
+management task for Equipment due on 2016-05-10 For more details please log
+on to your KAPS Vulcan portalKAPS Vulcan DisclamerThis email message and any
+file(s) transmitted with it is intended solely for the individual or entity
+to whom it is addressed and may contain confidential and/or legally
+privileged information which confidentiality and/or privilege is not lost or
+waived by reason of mistaken transmission . If you have received this
+message by error you are not authorized to view disseminate distribute or
+copy the message without the written consent of KAPS and are requested to
+contact the sender by telephone or e-mail and destroy the original.
+AlthoughKAPStakes all reasonable precautions to ensure that this message and
+any file transmitted with it is virus free, KAPS accepts no liability for
+any damage that may be caused by any virus transmitted by this email.
+
+
+--B_ALT_570a5b7bf05de
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+&lt;h2 style=3D&quot;text-align: center; color: #ff6601&quot;&gt;KAPS Vulcan&lt;/h2&gt;Hello &lt;b&gt;A=
+ssembly Tester, &lt;/b&gt;&lt;br/&gt;Murungi Wilson has assigned you assembly managemen=
+t task for Equipment due on 2016-05-10&lt;p&gt; For more details please log on to=
+ your &lt;a href =3D&quot;http://localhost/VULCAN/index.php&quot;&gt; KAPS Vulcan &lt;/a&gt; port=
+al&lt;/p&gt;&lt;p&gt;KAPS Vulcan&lt;/p&gt;&lt;div style =3D &quot;font-style:italic; color:#607D8B; b=
+order-top:2px dashed;&quot;&gt;&lt;h4&gt; Disclamer&lt;/h4&gt;&lt;p&gt;This email message and any fil=
+e(s) transmitted with it is intended solely for the individual or entity to=
+ whom it is addressed and may contain confidential and/or legally privilege=
+d information which confidentiality and/or privilege is not lost or waived =
+by reason of mistaken transmission . If you have received this message by e=
+rror you are not authorized to view disseminate distribute or copy the mess=
+age without the written consent of KAPS and are requested to contact the se=
+nder by telephone or e-mail and destroy the original. AlthoughKAPStakes all=
+ reasonable precautions to ensure that this message and any file transmitte=
+d with it is virus free, KAPS accepts no liability for any damage that may =
+be caused by any virus transmitted by this email.&lt;/p&gt;&lt;/div&gt;
+
+--B_ALT_570a5b7bf05de--</pre>%
+2016-04-10 09:57:52|127.0.0.1|Failed to send email to murungijnr@gmail.comERROR:: The following SMTP error was encountered: 0 php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution<br />Unable to send data: AUTH LOGIN<br />Failed to send AUTH LOGIN command. Error: <br />Unable to send data: MAIL FROM:<wkmania1@gmail.com><br /><pre>from: </pre>The following SMTP error was encountered: <br />Unable to send data: RCPT TO:<murungijnr@gmail.com><br /><pre>to: </pre>The following SMTP error was encountered: <br />Unable to send data: DATA<br /><pre>data: </pre>The following SMTP error was encountered: <br />Unable to send data: User-Agent: CodeIgniter
+Date: Sun, 10 Apr 2016 09:57:52 -0400
+From: "KAPS Vulcan" <wkmania1@gmail.com>
+Return-Path: <wkmania1@gmail.com>
+To: murungijnr@gmail.com
+Subject: =?iso-8859-1?Q?Assembly_assignment?=
+Reply-To: "wkmania1@gmail.com" <wkmania1@gmail.com>
+X-Sender: wkmania1@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: <570a5be017eaa@gmail.com>
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="B_ALT_570a5be017ee7"
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_570a5be017ee7
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+KAPS VulcanHello Assembly Tester, Murungi Wilson has assigned you assembly
+management task for Equipment due on 2016-05-10 For more details please log
+on to your KAPS Vulcan portalKAPS Vulcan DisclamerThis email message and any
+file(s) transmitted with it is intended solely for the individual or entity
+to whom it is addressed and may contain confidential and/or legally
+privileged information which confidentiality and/or privilege is not lost or
+waived by reason of mistaken transmission . If you have received this
+message by error you are not authorized to view disseminate distribute or
+copy the message without the written consent of KAPS and are requested to
+contact the sender by telephone or e-mail and destroy the original.
+AlthoughKAPStakes all reasonable precautions to ensure that this message and
+any file transmitted with it is virus free, KAPS accepts no liability for
+any damage that may be caused by any virus transmitted by this email.
+
+
+--B_ALT_570a5be017ee7
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<h2 style=3D"text-align: center; color: #ff6601">KAPS Vulcan</h2>Hello <b>A=
+ssembly Tester, </b><br/>Murungi Wilson has assigned you assembly managemen=
+t task for Equipment due on 2016-05-10<p> For more details please log on to=
+ your <a href =3D"http://localhost/VULCAN/index.php"> KAPS Vulcan </a> port=
+al</p><p>KAPS Vulcan</p><div style =3D "font-style:italic; color:#607D8B; b=
+order-top:2px dashed;"><h4> Disclamer</h4><p>This email message and any fil=
+e(s) transmitted with it is intended solely for the individual or entity to=
+ whom it is addressed and may contain confidential and/or legally privilege=
+d information which confidentiality and/or privilege is not lost or waived =
+by reason of mistaken transmission . If you have received this message by e=
+rror you are not authorized to view disseminate distribute or copy the mess=
+age without the written consent of KAPS and are requested to contact the se=
+nder by telephone or e-mail and destroy the original. AlthoughKAPStakes all=
+ reasonable precautions to ensure that this message and any file transmitte=
+d with it is virus free, KAPS accepts no liability for any damage that may =
+be caused by any virus transmitted by this email.</p></div>
+
+--B_ALT_570a5be017ee7--<br />Unable to send data: .<br /><br />The following SMTP error was encountered: <br />Unable to send email using PHP SMTP.  Your server might not be configured to send mail using this method.<br /><pre>User-Agent: CodeIgniter
+Date: Sun, 10 Apr 2016 09:57:52 -0400
+From: &quot;KAPS Vulcan&quot; &lt;wkmania1@gmail.com&gt;
+Return-Path: &lt;wkmania1@gmail.com&gt;
+To: murungijnr@gmail.com
+Subject: =?iso-8859-1?Q?Assembly_assignment?=
+Reply-To: &quot;wkmania1@gmail.com&quot; &lt;wkmania1@gmail.com&gt;
+X-Sender: wkmania1@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;570a5be017eaa@gmail.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_570a5be017ee7&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_570a5be017ee7
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+KAPS VulcanHello Assembly Tester, Murungi Wilson has assigned you assembly
+management task for Equipment due on 2016-05-10 For more details please log
+on to your KAPS Vulcan portalKAPS Vulcan DisclamerThis email message and any
+file(s) transmitted with it is intended solely for the individual or entity
+to whom it is addressed and may contain confidential and/or legally
+privileged information which confidentiality and/or privilege is not lost or
+waived by reason of mistaken transmission . If you have received this
+message by error you are not authorized to view disseminate distribute or
+copy the message without the written consent of KAPS and are requested to
+contact the sender by telephone or e-mail and destroy the original.
+AlthoughKAPStakes all reasonable precautions to ensure that this message and
+any file transmitted with it is virus free, KAPS accepts no liability for
+any damage that may be caused by any virus transmitted by this email.
+
+
+--B_ALT_570a5be017ee7
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+&lt;h2 style=3D&quot;text-align: center; color: #ff6601&quot;&gt;KAPS Vulcan&lt;/h2&gt;Hello &lt;b&gt;A=
+ssembly Tester, &lt;/b&gt;&lt;br/&gt;Murungi Wilson has assigned you assembly managemen=
+t task for Equipment due on 2016-05-10&lt;p&gt; For more details please log on to=
+ your &lt;a href =3D&quot;http://localhost/VULCAN/index.php&quot;&gt; KAPS Vulcan &lt;/a&gt; port=
+al&lt;/p&gt;&lt;p&gt;KAPS Vulcan&lt;/p&gt;&lt;div style =3D &quot;font-style:italic; color:#607D8B; b=
+order-top:2px dashed;&quot;&gt;&lt;h4&gt; Disclamer&lt;/h4&gt;&lt;p&gt;This email message and any fil=
+e(s) transmitted with it is intended solely for the individual or entity to=
+ whom it is addressed and may contain confidential and/or legally privilege=
+d information which confidentiality and/or privilege is not lost or waived =
+by reason of mistaken transmission . If you have received this message by e=
+rror you are not authorized to view disseminate distribute or copy the mess=
+age without the written consent of KAPS and are requested to contact the se=
+nder by telephone or e-mail and destroy the original. AlthoughKAPStakes all=
+ reasonable precautions to ensure that this message and any file transmitte=
+d with it is virus free, KAPS accepts no liability for any damage that may =
+be caused by any virus transmitted by this email.&lt;/p&gt;&lt;/div&gt;
+
+--B_ALT_570a5be017ee7--</pre>%
+2016-04-10 10:01:26|::1|Failed to send email to murungijnr@gmail.comERROR:: The following SMTP error was encountered: 0 php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution<br />Unable to send data: AUTH LOGIN<br />Failed to send AUTH LOGIN command. Error: <br />Unable to send data: MAIL FROM:<wkmania1@gmail.com><br /><pre>from: </pre>The following SMTP error was encountered: <br />Unable to send data: RCPT TO:<murungijnr@gmail.com><br /><pre>to: </pre>The following SMTP error was encountered: <br />Unable to send data: DATA<br /><pre>data: </pre>The following SMTP error was encountered: <br />Unable to send data: User-Agent: CodeIgniter
+Date: Sun, 10 Apr 2016 10:01:26 -0400
+From: "KAPS Vulcan" <wkmania1@gmail.com>
+Return-Path: <wkmania1@gmail.com>
+To: murungijnr@gmail.com
+Subject: =?iso-8859-1?Q?Assembly_assignment?=
+Reply-To: "wkmania1@gmail.com" <wkmania1@gmail.com>
+X-Sender: wkmania1@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: <570a5cb60fd5b@gmail.com>
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="B_ALT_570a5cb60fd9a"
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_570a5cb60fd9a
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+KAPS VulcanHello Assembly Tester, Murungi Wilson has assigned you assembly
+management task for Equipment due on 2016-05-10 For more details please log
+on to your KAPS Vulcan portalKAPS Vulcan DisclamerThis email message and any
+file(s) transmitted with it is intended solely for the individual or entity
+to whom it is addressed and may contain confidential and/or legally
+privileged information which confidentiality and/or privilege is not lost or
+waived by reason of mistaken transmission . If you have received this
+message by error you are not authorized to view disseminate distribute or
+copy the message without the written consent of KAPS and are requested to
+contact the sender by telephone or e-mail and destroy the original.
+AlthoughKAPStakes all reasonable precautions to ensure that this message and
+any file transmitted with it is virus free, KAPS accepts no liability for
+any damage that may be caused by any virus transmitted by this email.
+
+
+--B_ALT_570a5cb60fd9a
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<h2 style=3D"text-align: center; color: #ff6601">KAPS Vulcan</h2>Hello <b>A=
+ssembly Tester, </b><br/>Murungi Wilson has assigned you assembly managemen=
+t task for Equipment due on 2016-05-10<p> For more details please log on to=
+ your <a href =3D"http://localhost/VULCAN/index.php"> KAPS Vulcan </a> port=
+al</p><p>KAPS Vulcan</p><div style =3D "font-style:italic; color:#607D8B; b=
+order-top:2px dashed;"><h4> Disclamer</h4><p>This email message and any fil=
+e(s) transmitted with it is intended solely for the individual or entity to=
+ whom it is addressed and may contain confidential and/or legally privilege=
+d information which confidentiality and/or privilege is not lost or waived =
+by reason of mistaken transmission . If you have received this message by e=
+rror you are not authorized to view disseminate distribute or copy the mess=
+age without the written consent of KAPS and are requested to contact the se=
+nder by telephone or e-mail and destroy the original. AlthoughKAPStakes all=
+ reasonable precautions to ensure that this message and any file transmitte=
+d with it is virus free, KAPS accepts no liability for any damage that may =
+be caused by any virus transmitted by this email.</p></div>
+
+--B_ALT_570a5cb60fd9a--<br />Unable to send data: .<br /><br />The following SMTP error was encountered: <br />Unable to send email using PHP SMTP.  Your server might not be configured to send mail using this method.<br /><pre>User-Agent: CodeIgniter
+Date: Sun, 10 Apr 2016 10:01:26 -0400
+From: &quot;KAPS Vulcan&quot; &lt;wkmania1@gmail.com&gt;
+Return-Path: &lt;wkmania1@gmail.com&gt;
+To: murungijnr@gmail.com
+Subject: =?iso-8859-1?Q?Assembly_assignment?=
+Reply-To: &quot;wkmania1@gmail.com&quot; &lt;wkmania1@gmail.com&gt;
+X-Sender: wkmania1@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;570a5cb60fd5b@gmail.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_570a5cb60fd9a&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_570a5cb60fd9a
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+KAPS VulcanHello Assembly Tester, Murungi Wilson has assigned you assembly
+management task for Equipment due on 2016-05-10 For more details please log
+on to your KAPS Vulcan portalKAPS Vulcan DisclamerThis email message and any
+file(s) transmitted with it is intended solely for the individual or entity
+to whom it is addressed and may contain confidential and/or legally
+privileged information which confidentiality and/or privilege is not lost or
+waived by reason of mistaken transmission . If you have received this
+message by error you are not authorized to view disseminate distribute or
+copy the message without the written consent of KAPS and are requested to
+contact the sender by telephone or e-mail and destroy the original.
+AlthoughKAPStakes all reasonable precautions to ensure that this message and
+any file transmitted with it is virus free, KAPS accepts no liability for
+any damage that may be caused by any virus transmitted by this email.
+
+
+--B_ALT_570a5cb60fd9a
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+&lt;h2 style=3D&quot;text-align: center; color: #ff6601&quot;&gt;KAPS Vulcan&lt;/h2&gt;Hello &lt;b&gt;A=
+ssembly Tester, &lt;/b&gt;&lt;br/&gt;Murungi Wilson has assigned you assembly managemen=
+t task for Equipment due on 2016-05-10&lt;p&gt; For more details please log on to=
+ your &lt;a href =3D&quot;http://localhost/VULCAN/index.php&quot;&gt; KAPS Vulcan &lt;/a&gt; port=
+al&lt;/p&gt;&lt;p&gt;KAPS Vulcan&lt;/p&gt;&lt;div style =3D &quot;font-style:italic; color:#607D8B; b=
+order-top:2px dashed;&quot;&gt;&lt;h4&gt; Disclamer&lt;/h4&gt;&lt;p&gt;This email message and any fil=
+e(s) transmitted with it is intended solely for the individual or entity to=
+ whom it is addressed and may contain confidential and/or legally privilege=
+d information which confidentiality and/or privilege is not lost or waived =
+by reason of mistaken transmission . If you have received this message by e=
+rror you are not authorized to view disseminate distribute or copy the mess=
+age without the written consent of KAPS and are requested to contact the se=
+nder by telephone or e-mail and destroy the original. AlthoughKAPStakes all=
+ reasonable precautions to ensure that this message and any file transmitte=
+d with it is virus free, KAPS accepts no liability for any damage that may =
+be caused by any virus transmitted by this email.&lt;/p&gt;&lt;/div&gt;
+
+--B_ALT_570a5cb60fd9a--</pre>%
+2016-04-10 12:18:50|::1|Failed to send email to murungijnr@gmail.comERROR:: The following SMTP error was encountered: 0 php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution<br />Unable to send data: AUTH LOGIN<br />Failed to send AUTH LOGIN command. Error: <br />Unable to send data: MAIL FROM:<wkmania1@gmail.com><br /><pre>from: </pre>The following SMTP error was encountered: <br />Unable to send data: RCPT TO:<murungijnr@gmail.com><br /><pre>to: </pre>The following SMTP error was encountered: <br />Unable to send data: DATA<br /><pre>data: </pre>The following SMTP error was encountered: <br />Unable to send data: User-Agent: CodeIgniter
+Date: Sun, 10 Apr 2016 12:18:50 -0400
+From: "KAPS Vulcan" <wkmania1@gmail.com>
+Return-Path: <wkmania1@gmail.com>
+To: murungijnr@gmail.com
+Subject: =?iso-8859-1?Q?Equipment_assembly_assignment?=
+Reply-To: "wkmania1@gmail.com" <wkmania1@gmail.com>
+X-Sender: wkmania1@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: <570a7cea74884@gmail.com>
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="B_ALT_570a7cea748c8"
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_570a7cea748c8
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+KAPS VulcanHello Assembly Tester, Murungi Wilson has assigned you an
+assembly task (Wanna join this cool team?) due on For more details please
+log on to your KAPS Vulcan portalKAPS Vulcan DisclamerThis email message and
+any file(s) transmitted with it is intended solely for the individual or
+entity to whom it is addressed and may contain confidential and/or legally
+privileged information which confidentiality and/or privilege is not lost or
+waived by reason of mistaken transmission . If you have received this
+message by error you are not authorized to view disseminate distribute or
+copy the message without the written consent of KAPS and are requested to
+contact the sender by telephone or e-mail and destroy the original.
+AlthoughKAPStakes all reasonable precautions to ensure that this message and
+any file transmitted with it is virus free, KAPS accepts no liability for
+any damage that may be caused by any virus transmitted by this email.
+
+
+--B_ALT_570a7cea748c8
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<h2 style=3D"text-align: center; color: #ff6601">KAPS Vulcan</h2>Hello <b>A=
+ssembly Tester, </b><br/>Murungi Wilson has assigned you an assembly task (=
+Wanna join this cool team?) due on <p> For more details please log on to yo=
+ur <a href =3D"http://localhost/VULCAN/index.php"> KAPS Vulcan </a> portal<=
+/p><p>KAPS Vulcan</p><div style =3D "font-style:italic; color:#607D8B; bord=
+er-top:2px dashed;"><h4> Disclamer</h4><p>This email message and any file(s=
+) transmitted with it is intended solely for the individual or entity to wh=
+om it is addressed and may contain confidential and/or legally privileged i=
+nformation which confidentiality and/or privilege is not lost or waived by =
+reason of mistaken transmission . If you have received this message by erro=
+r you are not authorized to view disseminate distribute or copy the message=
+ without the written consent of KAPS and are requested to contact the sende=
+r by telephone or e-mail and destroy the original. AlthoughKAPStakes all re=
+asonable precautions to ensure that this message and any file transmitted w=
+ith it is virus free, KAPS accepts no liability for any damage that may be =
+caused by any virus transmitted by this email.</p></div>
+
+--B_ALT_570a7cea748c8--<br />Unable to send data: .<br /><br />The following SMTP error was encountered: <br />Unable to send email using PHP SMTP.  Your server might not be configured to send mail using this method.<br /><pre>User-Agent: CodeIgniter
+Date: Sun, 10 Apr 2016 12:18:50 -0400
+From: &quot;KAPS Vulcan&quot; &lt;wkmania1@gmail.com&gt;
+Return-Path: &lt;wkmania1@gmail.com&gt;
+To: murungijnr@gmail.com
+Subject: =?iso-8859-1?Q?Equipment_assembly_assignment?=
+Reply-To: &quot;wkmania1@gmail.com&quot; &lt;wkmania1@gmail.com&gt;
+X-Sender: wkmania1@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;570a7cea74884@gmail.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_570a7cea748c8&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_570a7cea748c8
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+KAPS VulcanHello Assembly Tester, Murungi Wilson has assigned you an
+assembly task (Wanna join this cool team?) due on For more details please
+log on to your KAPS Vulcan portalKAPS Vulcan DisclamerThis email message and
+any file(s) transmitted with it is intended solely for the individual or
+entity to whom it is addressed and may contain confidential and/or legally
+privileged information which confidentiality and/or privilege is not lost or
+waived by reason of mistaken transmission . If you have received this
+message by error you are not authorized to view disseminate distribute or
+copy the message without the written consent of KAPS and are requested to
+contact the sender by telephone or e-mail and destroy the original.
+AlthoughKAPStakes all reasonable precautions to ensure that this message and
+any file transmitted with it is virus free, KAPS accepts no liability for
+any damage that may be caused by any virus transmitted by this email.
+
+
+--B_ALT_570a7cea748c8
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+&lt;h2 style=3D&quot;text-align: center; color: #ff6601&quot;&gt;KAPS Vulcan&lt;/h2&gt;Hello &lt;b&gt;A=
+ssembly Tester, &lt;/b&gt;&lt;br/&gt;Murungi Wilson has assigned you an assembly task (=
+Wanna join this cool team?) due on &lt;p&gt; For more details please log on to yo=
+ur &lt;a href =3D&quot;http://localhost/VULCAN/index.php&quot;&gt; KAPS Vulcan &lt;/a&gt; portal&lt;=
+/p&gt;&lt;p&gt;KAPS Vulcan&lt;/p&gt;&lt;div style =3D &quot;font-style:italic; color:#607D8B; bord=
+er-top:2px dashed;&quot;&gt;&lt;h4&gt; Disclamer&lt;/h4&gt;&lt;p&gt;This email message and any file(s=
+) transmitted with it is intended solely for the individual or entity to wh=
+om it is addressed and may contain confidential and/or legally privileged i=
+nformation which confidentiality and/or privilege is not lost or waived by =
+reason of mistaken transmission . If you have received this message by erro=
+r you are not authorized to view disseminate distribute or copy the message=
+ without the written consent of KAPS and are requested to contact the sende=
+r by telephone or e-mail and destroy the original. AlthoughKAPStakes all re=
+asonable precautions to ensure that this message and any file transmitted w=
+ith it is virus free, KAPS accepts no liability for any damage that may be =
+caused by any virus transmitted by this email.&lt;/p&gt;&lt;/div&gt;
+
+--B_ALT_570a7cea748c8--</pre>%
+2016-04-14 06:28:35|::1|Failed to send email to murungijnr@gmail.comERROR:: The following SMTP error was encountered: 0 php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution<br />Unable to send data: AUTH LOGIN<br />Failed to send AUTH LOGIN command. Error: <br />Unable to send data: MAIL FROM:<wkmania1@gmail.com><br /><pre>from: </pre>The following SMTP error was encountered: <br />Unable to send data: RCPT TO:<murungijnr@gmail.com><br /><pre>to: </pre>The following SMTP error was encountered: <br />Unable to send data: DATA<br /><pre>data: </pre>The following SMTP error was encountered: <br />Unable to send data: User-Agent: CodeIgniter
+Date: Thu, 14 Apr 2016 06:28:15 -0400
+From: "KAPS Vulcan" <wkmania1@gmail.com>
+Return-Path: <wkmania1@gmail.com>
+To: murungijnr@gmail.com
+Subject: =?iso-8859-1?Q?Profile_Update?=
+Reply-To: "wkmania1@gmail.com" <wkmania1@gmail.com>
+X-Sender: wkmania1@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: <570f70bf52896@gmail.com>
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="B_ALT_570f70bf528d5"
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_570f70bf528d5
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+KAPS VulcanHello Assembly Store Manager, Your profile details was modified
+by Murungi Wilson For more details please log on to your KAPS Vulcan
+portalKAPS Vulcan DisclamerThis email message and any file(s) transmitted
+with it is intended solely for the individual or entity to whom it is
+addressed and may contain confidential and/or legally privileged information
+which confidentiality and/or privilege is not lost or waived by reason of
+mistaken transmission . If you have received this message by error you are
+not authorized to view disseminate distribute or copy the message without
+the written consent of KAPS and are requested to contact the sender by
+telephone or e-mail and destroy the original. AlthoughKAPStakes all
+reasonable precautions to ensure that this message and any file transmitted
+with it is virus free, KAPS accepts no liability for any damage that may be
+caused by any virus transmitted by this email.
+
+
+--B_ALT_570f70bf528d5
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<h2 style=3D"text-align: center; color: #ff6601">KAPS Vulcan</h2>Hello <b>A=
+ssembly Store Manager, </b><br/>Your profile details was modified by Murung=
+i Wilson<p> For more details please log on to your <a href =3D"http://local=
+host/vulcan/index.php"> KAPS Vulcan </a> portal</p><p>KAPS Vulcan</p><div s=
+tyle =3D "font-style:italic; color:#607D8B; border-top:2px dashed;"><h4> Di=
+sclamer</h4><p>This email message and any file(s) transmitted with it is in=
+tended solely for the individual or entity to whom it is addressed and may =
+contain confidential and/or legally privileged information which confidenti=
+ality and/or privilege is not lost or waived by reason of mistaken transmis=
+sion . If you have received this message by error you are not authorized to=
+ view disseminate distribute or copy the message without the written consen=
+t of KAPS and are requested to contact the sender by telephone or e-mail an=
+d destroy the original. AlthoughKAPStakes all reasonable precautions to ens=
+ure that this message and any file transmitted with it is virus free, KAPS =
+accepts no liability for any damage that may be caused by any virus transmi=
+tted by this email.</p></div>
+
+--B_ALT_570f70bf528d5--<br />Unable to send data: .<br /><br />The following SMTP error was encountered: <br />Unable to send email using PHP SMTP.  Your server might not be configured to send mail using this method.<br /><pre>User-Agent: CodeIgniter
+Date: Thu, 14 Apr 2016 06:28:15 -0400
+From: &quot;KAPS Vulcan&quot; &lt;wkmania1@gmail.com&gt;
+Return-Path: &lt;wkmania1@gmail.com&gt;
+To: murungijnr@gmail.com
+Subject: =?iso-8859-1?Q?Profile_Update?=
+Reply-To: &quot;wkmania1@gmail.com&quot; &lt;wkmania1@gmail.com&gt;
+X-Sender: wkmania1@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;570f70bf52896@gmail.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_570f70bf528d5&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_570f70bf528d5
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+KAPS VulcanHello Assembly Store Manager, Your profile details was modified
+by Murungi Wilson For more details please log on to your KAPS Vulcan
+portalKAPS Vulcan DisclamerThis email message and any file(s) transmitted
+with it is intended solely for the individual or entity to whom it is
+addressed and may contain confidential and/or legally privileged information
+which confidentiality and/or privilege is not lost or waived by reason of
+mistaken transmission . If you have received this message by error you are
+not authorized to view disseminate distribute or copy the message without
+the written consent of KAPS and are requested to contact the sender by
+telephone or e-mail and destroy the original. AlthoughKAPStakes all
+reasonable precautions to ensure that this message and any file transmitted
+with it is virus free, KAPS accepts no liability for any damage that may be
+caused by any virus transmitted by this email.
+
+
+--B_ALT_570f70bf528d5
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+&lt;h2 style=3D&quot;text-align: center; color: #ff6601&quot;&gt;KAPS Vulcan&lt;/h2&gt;Hello &lt;b&gt;A=
+ssembly Store Manager, &lt;/b&gt;&lt;br/&gt;Your profile details was modified by Murung=
+i Wilson&lt;p&gt; For more details please log on to your &lt;a href =3D&quot;http://local=
+host/vulcan/index.php&quot;&gt; KAPS Vulcan &lt;/a&gt; portal&lt;/p&gt;&lt;p&gt;KAPS Vulcan&lt;/p&gt;&lt;div s=
+tyle =3D &quot;font-style:italic; color:#607D8B; border-top:2px dashed;&quot;&gt;&lt;h4&gt; Di=
+sclamer&lt;/h4&gt;&lt;p&gt;This email message and any file(s) transmitted with it is in=
+tended solely for the individual or entity to whom it is addressed and may =
+contain confidential and/or legally privileged information which confidenti=
+ality and/or privilege is not lost or waived by reason of mistaken transmis=
+sion . If you have received this message by error you are not authorized to=
+ view disseminate distribute or copy the message without the written consen=
+t of KAPS and are requested to contact the sender by telephone or e-mail an=
+d destroy the original. AlthoughKAPStakes all reasonable precautions to ens=
+ure that this message and any file transmitted with it is virus free, KAPS =
+accepts no liability for any damage that may be caused by any virus transmi=
+tted by this email.&lt;/p&gt;&lt;/div&gt;
+
+--B_ALT_570f70bf528d5--</pre>%
+2016-04-17 07:28:20|::1|Failed to send email to katumos@gmail.comERROR:: The following SMTP error was encountered: 0 php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution<br />Unable to send data: AUTH LOGIN<br />Failed to send AUTH LOGIN command. Error: <br />Unable to send data: MAIL FROM:<wkmania1@gmail.com><br /><pre>from: </pre>The following SMTP error was encountered: <br />Unable to send data: RCPT TO:<katumos@gmail.com><br /><pre>to: </pre>The following SMTP error was encountered: <br />Unable to send data: DATA<br /><pre>data: </pre>The following SMTP error was encountered: <br />Unable to send data: User-Agent: CodeIgniter
+Date: Sun, 17 Apr 2016 07:28:20 -0400
+From: "KAPS Vulcan" <wkmania1@gmail.com>
+Return-Path: <wkmania1@gmail.com>
+To: katumos@gmail.com
+Subject: =?iso-8859-1?Q?Assembly_manager_assignment?=
+Reply-To: "wkmania1@gmail.com" <wkmania1@gmail.com>
+X-Sender: wkmania1@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: <5713735406003@gmail.com>
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="B_ALT_5713735406041"
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_5713735406041
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+KAPS VulcanHello simon katumo, You have a new equipment assembly management
+task assigned to you by Murungi Wilson for Equipment . You will be expected
+to manage and report on progress of assembly and assign roles to
+ other members of the team For more details please log on to your KAPS
+Vulcan portalKAPS Vulcan DisclamerThis email message and any file(s)
+transmitted with it is intended solely for the individual or entity to whom
+it is addressed and may contain confidential and/or legally privileged
+information which confidentiality and/or privilege is not lost or waived by
+reason of mistaken transmission . If you have received this message by error
+you are not authorized to view disseminate distribute or copy the message
+without the written consent of KAPS and are requested to contact the sender
+by telephone or e-mail and destroy the original. AlthoughKAPStakes all
+reasonable precautions to ensure that this message and any file transmitted
+with it is virus free, KAPS accepts no liability for any damage that may be
+caused by any virus transmitted by this email.
+
+
+--B_ALT_5713735406041
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<h2 style=3D"text-align: center; color: #ff6601">KAPS Vulcan</h2>Hello <b>s=
+imon katumo, </b><br/>You have a new equipment assembly management task ass=
+igned to you by Murungi Wilson for Equipment . <br/>You will be expected to=
+ manage and report on progress of assembly and assign roles to
+ other members of the team<p> For more details please log on to your <a hre=
+f =3D"http://localhost/vulcan/index.php"> KAPS Vulcan </a> portal</p><p>KAP=
+S Vulcan</p><div style =3D "font-style:italic; color:#607D8B; border-top:2p=
+x dashed;"><h4> Disclamer</h4><p>This email message and any file(s) transmi=
+tted with it is intended solely for the individual or entity to whom it is =
+addressed and may contain confidential and/or legally privileged informatio=
+n which confidentiality and/or privilege is not lost or waived by reason of=
+ mistaken transmission . If you have received this message by error you are=
+ not authorized to view disseminate distribute or copy the message without =
+the written consent of KAPS and are requested to contact the sender by tele=
+phone or e-mail and destroy the original. AlthoughKAPStakes all reasonable =
+precautions to ensure that this message and any file transmitted with it is=
+ virus free, KAPS accepts no liability for any damage that may be caused by=
+ any virus transmitted by this email.</p></div>
+
+--B_ALT_5713735406041--<br />Unable to send data: .<br /><br />The following SMTP error was encountered: <br />Unable to send email using PHP SMTP.  Your server might not be configured to send mail using this method.<br /><pre>User-Agent: CodeIgniter
+Date: Sun, 17 Apr 2016 07:28:20 -0400
+From: &quot;KAPS Vulcan&quot; &lt;wkmania1@gmail.com&gt;
+Return-Path: &lt;wkmania1@gmail.com&gt;
+To: katumos@gmail.com
+Subject: =?iso-8859-1?Q?Assembly_manager_assignment?=
+Reply-To: &quot;wkmania1@gmail.com&quot; &lt;wkmania1@gmail.com&gt;
+X-Sender: wkmania1@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;5713735406003@gmail.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_5713735406041&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_5713735406041
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+KAPS VulcanHello simon katumo, You have a new equipment assembly management
+task assigned to you by Murungi Wilson for Equipment . You will be expected
+to manage and report on progress of assembly and assign roles to
+ other members of the team For more details please log on to your KAPS
+Vulcan portalKAPS Vulcan DisclamerThis email message and any file(s)
+transmitted with it is intended solely for the individual or entity to whom
+it is addressed and may contain confidential and/or legally privileged
+information which confidentiality and/or privilege is not lost or waived by
+reason of mistaken transmission . If you have received this message by error
+you are not authorized to view disseminate distribute or copy the message
+without the written consent of KAPS and are requested to contact the sender
+by telephone or e-mail and destroy the original. AlthoughKAPStakes all
+reasonable precautions to ensure that this message and any file transmitted
+with it is virus free, KAPS accepts no liability for any damage that may be
+caused by any virus transmitted by this email.
+
+
+--B_ALT_5713735406041
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+&lt;h2 style=3D&quot;text-align: center; color: #ff6601&quot;&gt;KAPS Vulcan&lt;/h2&gt;Hello &lt;b&gt;s=
+imon katumo, &lt;/b&gt;&lt;br/&gt;You have a new equipment assembly management task ass=
+igned to you by Murungi Wilson for Equipment . &lt;br/&gt;You will be expected to=
+ manage and report on progress of assembly and assign roles to
+ other members of the team&lt;p&gt; For more details please log on to your &lt;a hre=
+f =3D&quot;http://localhost/vulcan/index.php&quot;&gt; KAPS Vulcan &lt;/a&gt; portal&lt;/p&gt;&lt;p&gt;KAP=
+S Vulcan&lt;/p&gt;&lt;div style =3D &quot;font-style:italic; color:#607D8B; border-top:2p=
+x dashed;&quot;&gt;&lt;h4&gt; Disclamer&lt;/h4&gt;&lt;p&gt;This email message and any file(s) transmi=
+tted with it is intended solely for the individual or entity to whom it is =
+addressed and may contain confidential and/or legally privileged informatio=
+n which confidentiality and/or privilege is not lost or waived by reason of=
+ mistaken transmission . If you have received this message by error you are=
+ not authorized to view disseminate distribute or copy the message without =
+the written consent of KAPS and are requested to contact the sender by tele=
+phone or e-mail and destroy the original. AlthoughKAPStakes all reasonable =
+precautions to ensure that this message and any file transmitted with it is=
+ virus free, KAPS accepts no liability for any damage that may be caused by=
+ any virus transmitted by this email.&lt;/p&gt;&lt;/div&gt;
+
+--B_ALT_5713735406041--</pre>%
+2016-04-20 11:27:48|::1|Failed to send email to katumos@gmail.comERROR:: The following SMTP error was encountered: 0 php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution<br />Unable to send data: AUTH LOGIN<br />Failed to send AUTH LOGIN command. Error: <br />Unable to send data: MAIL FROM:<wkmania1@gmail.com><br /><pre>from: </pre>The following SMTP error was encountered: <br />Unable to send data: RCPT TO:<katumos@gmail.com><br /><pre>to: </pre>The following SMTP error was encountered: <br />Unable to send data: DATA<br /><pre>data: </pre>The following SMTP error was encountered: <br />Unable to send data: User-Agent: CodeIgniter
+Date: Wed, 20 Apr 2016 11:27:48 -0400
+From: "KAPS Vulcan" <wkmania1@gmail.com>
+Return-Path: <wkmania1@gmail.com>
+To: katumos@gmail.com
+Subject: =?iso-8859-1?Q?Assembly_manager_assignment?=
+Reply-To: "wkmania1@gmail.com" <wkmania1@gmail.com>
+X-Sender: wkmania1@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: <57179ff473b75@gmail.com>
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="B_ALT_57179ff473bb3"
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_57179ff473bb3
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+KAPS VulcanHello simon katumo, You have a new equipment assembly management
+task assigned to you by Murungi Wilson for Equipment . You will be expected
+to manage and report on progress of assembly and assign roles to
+ other members of the team For more details please log on to your KAPS
+Vulcan portalKAPS Vulcan DisclamerThis email message and any file(s)
+transmitted with it is intended solely for the individual or entity to whom
+it is addressed and may contain confidential and/or legally privileged
+information which confidentiality and/or privilege is not lost or waived by
+reason of mistaken transmission . If you have received this message by error
+you are not authorized to view disseminate distribute or copy the message
+without the written consent of KAPS and are requested to contact the sender
+by telephone or e-mail and destroy the original. AlthoughKAPStakes all
+reasonable precautions to ensure that this message and any file transmitted
+with it is virus free, KAPS accepts no liability for any damage that may be
+caused by any virus transmitted by this email.
+
+
+--B_ALT_57179ff473bb3
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<h2 style=3D"text-align: center; color: #ff6601">KAPS Vulcan</h2>Hello <b>s=
+imon katumo, </b><br/>You have a new equipment assembly management task ass=
+igned to you by Murungi Wilson for Equipment . <br/>You will be expected to=
+ manage and report on progress of assembly and assign roles to
+ other members of the team<p> For more details please log on to your <a hre=
+f =3D"http://localhost/vulcan/index.php"> KAPS Vulcan </a> portal</p><p>KAP=
+S Vulcan</p><div style =3D "font-style:italic; color:#607D8B; border-top:2p=
+x dashed;"><h4> Disclamer</h4><p>This email message and any file(s) transmi=
+tted with it is intended solely for the individual or entity to whom it is =
+addressed and may contain confidential and/or legally privileged informatio=
+n which confidentiality and/or privilege is not lost or waived by reason of=
+ mistaken transmission . If you have received this message by error you are=
+ not authorized to view disseminate distribute or copy the message without =
+the written consent of KAPS and are requested to contact the sender by tele=
+phone or e-mail and destroy the original. AlthoughKAPStakes all reasonable =
+precautions to ensure that this message and any file transmitted with it is=
+ virus free, KAPS accepts no liability for any damage that may be caused by=
+ any virus transmitted by this email.</p></div>
+
+--B_ALT_57179ff473bb3--<br />Unable to send data: .<br /><br />The following SMTP error was encountered: <br />Unable to send email using PHP SMTP.  Your server might not be configured to send mail using this method.<br /><pre>User-Agent: CodeIgniter
+Date: Wed, 20 Apr 2016 11:27:48 -0400
+From: &quot;KAPS Vulcan&quot; &lt;wkmania1@gmail.com&gt;
+Return-Path: &lt;wkmania1@gmail.com&gt;
+To: katumos@gmail.com
+Subject: =?iso-8859-1?Q?Assembly_manager_assignment?=
+Reply-To: &quot;wkmania1@gmail.com&quot; &lt;wkmania1@gmail.com&gt;
+X-Sender: wkmania1@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;57179ff473b75@gmail.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_57179ff473bb3&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_57179ff473bb3
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+KAPS VulcanHello simon katumo, You have a new equipment assembly management
+task assigned to you by Murungi Wilson for Equipment . You will be expected
+to manage and report on progress of assembly and assign roles to
+ other members of the team For more details please log on to your KAPS
+Vulcan portalKAPS Vulcan DisclamerThis email message and any file(s)
+transmitted with it is intended solely for the individual or entity to whom
+it is addressed and may contain confidential and/or legally privileged
+information which confidentiality and/or privilege is not lost or waived by
+reason of mistaken transmission . If you have received this message by error
+you are not authorized to view disseminate distribute or copy the message
+without the written consent of KAPS and are requested to contact the sender
+by telephone or e-mail and destroy the original. AlthoughKAPStakes all
+reasonable precautions to ensure that this message and any file transmitted
+with it is virus free, KAPS accepts no liability for any damage that may be
+caused by any virus transmitted by this email.
+
+
+--B_ALT_57179ff473bb3
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+&lt;h2 style=3D&quot;text-align: center; color: #ff6601&quot;&gt;KAPS Vulcan&lt;/h2&gt;Hello &lt;b&gt;s=
+imon katumo, &lt;/b&gt;&lt;br/&gt;You have a new equipment assembly management task ass=
+igned to you by Murungi Wilson for Equipment . &lt;br/&gt;You will be expected to=
+ manage and report on progress of assembly and assign roles to
+ other members of the team&lt;p&gt; For more details please log on to your &lt;a hre=
+f =3D&quot;http://localhost/vulcan/index.php&quot;&gt; KAPS Vulcan &lt;/a&gt; portal&lt;/p&gt;&lt;p&gt;KAP=
+S Vulcan&lt;/p&gt;&lt;div style =3D &quot;font-style:italic; color:#607D8B; border-top:2p=
+x dashed;&quot;&gt;&lt;h4&gt; Disclamer&lt;/h4&gt;&lt;p&gt;This email message and any file(s) transmi=
+tted with it is intended solely for the individual or entity to whom it is =
+addressed and may contain confidential and/or legally privileged informatio=
+n which confidentiality and/or privilege is not lost or waived by reason of=
+ mistaken transmission . If you have received this message by error you are=
+ not authorized to view disseminate distribute or copy the message without =
+the written consent of KAPS and are requested to contact the sender by tele=
+phone or e-mail and destroy the original. AlthoughKAPStakes all reasonable =
+precautions to ensure that this message and any file transmitted with it is=
+ virus free, KAPS accepts no liability for any damage that may be caused by=
+ any virus transmitted by this email.&lt;/p&gt;&lt;/div&gt;
+
+--B_ALT_57179ff473bb3--</pre>%
+2016-04-20 12:46:03|::1|Failed to send email to mmbindyo@kaps.co.keERROR:: The following SMTP error was encountered: 0 php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution<br />Unable to send data: AUTH LOGIN<br />Failed to send AUTH LOGIN command. Error: <br />Unable to send data: MAIL FROM:<wkmania1@gmail.com><br /><pre>from: </pre>The following SMTP error was encountered: <br />Unable to send data: RCPT TO:<mmbindyo@kaps.co.ke><br /><pre>to: </pre>The following SMTP error was encountered: <br />Unable to send data: DATA<br /><pre>data: </pre>The following SMTP error was encountered: <br />Unable to send data: User-Agent: CodeIgniter
+Date: Wed, 20 Apr 2016 12:46:03 -0400
+From: "KAPS Vulcan" <wkmania1@gmail.com>
+Return-Path: <wkmania1@gmail.com>
+To: mmbindyo@kaps.co.ke
+Subject: =?iso-8859-1?Q?Assembly_task_assignment?=
+Reply-To: "wkmania1@gmail.com" <wkmania1@gmail.com>
+X-Sender: wkmania1@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: <5717b24bec671@gmail.com>
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="B_ALT_5717b24bec6ae"
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_5717b24bec6ae
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+KAPS VulcanHello Mukui Mbindyo, You have an equipment assembly management
+task assigned to you by simon katumo for Equipment EXIT_4554. You will be
+expected to perform and report on progress of task within the stipulated
+duration For more details please log on to your KAPS Vulcan portalKAPS
+Vulcan DisclamerThis email message and any file(s) transmitted with it is
+intended solely for the individual or entity to whom it is addressed and may
+contain confidential and/or legally privileged information which
+confidentiality and/or privilege is not lost or waived by reason of mistaken
+transmission . If you have received this message by error you are not
+authorized to view disseminate distribute or copy the message without the
+written consent of KAPS and are requested to contact the sender by telephone
+or e-mail and destroy the original. AlthoughKAPStakes all reasonable
+precautions to ensure that this message and any file transmitted with it is
+virus free, KAPS accepts no liability for any damage that may be caused by
+any virus transmitted by this email.
+
+
+--B_ALT_5717b24bec6ae
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<h2 style=3D"text-align: center; color: #ff6601">KAPS Vulcan</h2>Hello <b>M=
+ukui Mbindyo, </b><br/>You have an equipment assembly management task assig=
+ned to you by simon katumo for Equipment EXIT_4554. <br/>You will be expect=
+ed to perform and report on progress of task within the stipulated duration=
+<p> For more details please log on to your <a href =3D"http://localhost/vul=
+can/index.php"> KAPS Vulcan </a> portal</p><p>KAPS Vulcan</p><div style =3D=
+ "font-style:italic; color:#607D8B; border-top:2px dashed;"><h4> Disclamer<=
+/h4><p>This email message and any file(s) transmitted with it is intended s=
+olely for the individual or entity to whom it is addressed and may contain =
+confidential and/or legally privileged information which confidentiality an=
+d/or privilege is not lost or waived by reason of mistaken transmission . I=
+f you have received this message by error you are not authorized to view di=
+sseminate distribute or copy the message without the written consent of KAP=
+S and are requested to contact the sender by telephone or e-mail and destro=
+y the original. AlthoughKAPStakes all reasonable precautions to ensure that=
+ this message and any file transmitted with it is virus free, KAPS accepts =
+no liability for any damage that may be caused by any virus transmitted by =
+this email.</p></div>
+
+--B_ALT_5717b24bec6ae--<br />Unable to send data: .<br /><br />The following SMTP error was encountered: <br />Unable to send email using PHP SMTP.  Your server might not be configured to send mail using this method.<br /><pre>User-Agent: CodeIgniter
+Date: Wed, 20 Apr 2016 12:46:03 -0400
+From: &quot;KAPS Vulcan&quot; &lt;wkmania1@gmail.com&gt;
+Return-Path: &lt;wkmania1@gmail.com&gt;
+To: mmbindyo@kaps.co.ke
+Subject: =?iso-8859-1?Q?Assembly_task_assignment?=
+Reply-To: &quot;wkmania1@gmail.com&quot; &lt;wkmania1@gmail.com&gt;
+X-Sender: wkmania1@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;5717b24bec671@gmail.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_5717b24bec6ae&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_5717b24bec6ae
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+KAPS VulcanHello Mukui Mbindyo, You have an equipment assembly management
+task assigned to you by simon katumo for Equipment EXIT_4554. You will be
+expected to perform and report on progress of task within the stipulated
+duration For more details please log on to your KAPS Vulcan portalKAPS
+Vulcan DisclamerThis email message and any file(s) transmitted with it is
+intended solely for the individual or entity to whom it is addressed and may
+contain confidential and/or legally privileged information which
+confidentiality and/or privilege is not lost or waived by reason of mistaken
+transmission . If you have received this message by error you are not
+authorized to view disseminate distribute or copy the message without the
+written consent of KAPS and are requested to contact the sender by telephone
+or e-mail and destroy the original. AlthoughKAPStakes all reasonable
+precautions to ensure that this message and any file transmitted with it is
+virus free, KAPS accepts no liability for any damage that may be caused by
+any virus transmitted by this email.
+
+
+--B_ALT_5717b24bec6ae
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+&lt;h2 style=3D&quot;text-align: center; color: #ff6601&quot;&gt;KAPS Vulcan&lt;/h2&gt;Hello &lt;b&gt;M=
+ukui Mbindyo, &lt;/b&gt;&lt;br/&gt;You have an equipment assembly management task assig=
+ned to you by simon katumo for Equipment EXIT_4554. &lt;br/&gt;You will be expect=
+ed to perform and report on progress of task within the stipulated duration=
+&lt;p&gt; For more details please log on to your &lt;a href =3D&quot;http://localhost/vul=
+can/index.php&quot;&gt; KAPS Vulcan &lt;/a&gt; portal&lt;/p&gt;&lt;p&gt;KAPS Vulcan&lt;/p&gt;&lt;div style =3D=
+ &quot;font-style:italic; color:#607D8B; border-top:2px dashed;&quot;&gt;&lt;h4&gt; Disclamer&lt;=
+/h4&gt;&lt;p&gt;This email message and any file(s) transmitted with it is intended s=
+olely for the individual or entity to whom it is addressed and may contain =
+confidential and/or legally privileged information which confidentiality an=
+d/or privilege is not lost or waived by reason of mistaken transmission . I=
+f you have received this message by error you are not authorized to view di=
+sseminate distribute or copy the message without the written consent of KAP=
+S and are requested to contact the sender by telephone or e-mail and destro=
+y the original. AlthoughKAPStakes all reasonable precautions to ensure that=
+ this message and any file transmitted with it is virus free, KAPS accepts =
+no liability for any damage that may be caused by any virus transmitted by =
+this email.&lt;/p&gt;&lt;/div&gt;
+
+--B_ALT_5717b24bec6ae--</pre>%
+2016-04-20 12:46:03|::1|Failed to send email to katumos@gmail.comERROR:: The following SMTP error was encountered: 0 php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution<br />Unable to send data: AUTH LOGIN<br />Failed to send AUTH LOGIN command. Error: <br />Unable to send data: MAIL FROM:<wkmania1@gmail.com><br /><pre>from: </pre>The following SMTP error was encountered: <br />Unable to send data: RCPT TO:<mmbindyo@kaps.co.ke><br /><pre>to: </pre>The following SMTP error was encountered: <br />Unable to send data: DATA<br /><pre>data: </pre>The following SMTP error was encountered: <br />Unable to send data: User-Agent: CodeIgniter
+Date: Wed, 20 Apr 2016 12:46:03 -0400
+From: "KAPS Vulcan" <wkmania1@gmail.com>
+Return-Path: <wkmania1@gmail.com>
+To: mmbindyo@kaps.co.ke
+Subject: =?iso-8859-1?Q?Assembly_task_assignment?=
+Reply-To: "wkmania1@gmail.com" <wkmania1@gmail.com>
+X-Sender: wkmania1@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: <5717b24bec671@gmail.com>
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="B_ALT_5717b24bec6ae"
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_5717b24bec6ae
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+KAPS VulcanHello Mukui Mbindyo, You have an equipment assembly management
+task assigned to you by simon katumo for Equipment EXIT_4554. You will be
+expected to perform and report on progress of task within the stipulated
+duration For more details please log on to your KAPS Vulcan portalKAPS
+Vulcan DisclamerThis email message and any file(s) transmitted with it is
+intended solely for the individual or entity to whom it is addressed and may
+contain confidential and/or legally privileged information which
+confidentiality and/or privilege is not lost or waived by reason of mistaken
+transmission . If you have received this message by error you are not
+authorized to view disseminate distribute or copy the message without the
+written consent of KAPS and are requested to contact the sender by telephone
+or e-mail and destroy the original. AlthoughKAPStakes all reasonable
+precautions to ensure that this message and any file transmitted with it is
+virus free, KAPS accepts no liability for any damage that may be caused by
+any virus transmitted by this email.
+
+
+--B_ALT_5717b24bec6ae
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<h2 style=3D"text-align: center; color: #ff6601">KAPS Vulcan</h2>Hello <b>M=
+ukui Mbindyo, </b><br/>You have an equipment assembly management task assig=
+ned to you by simon katumo for Equipment EXIT_4554. <br/>You will be expect=
+ed to perform and report on progress of task within the stipulated duration=
+<p> For more details please log on to your <a href =3D"http://localhost/vul=
+can/index.php"> KAPS Vulcan </a> portal</p><p>KAPS Vulcan</p><div style =3D=
+ "font-style:italic; color:#607D8B; border-top:2px dashed;"><h4> Disclamer<=
+/h4><p>This email message and any file(s) transmitted with it is intended s=
+olely for the individual or entity to whom it is addressed and may contain =
+confidential and/or legally privileged information which confidentiality an=
+d/or privilege is not lost or waived by reason of mistaken transmission . I=
+f you have received this message by error you are not authorized to view di=
+sseminate distribute or copy the message without the written consent of KAP=
+S and are requested to contact the sender by telephone or e-mail and destro=
+y the original. AlthoughKAPStakes all reasonable precautions to ensure that=
+ this message and any file transmitted with it is virus free, KAPS accepts =
+no liability for any damage that may be caused by any virus transmitted by =
+this email.</p></div>
+
+--B_ALT_5717b24bec6ae--<br />Unable to send data: .<br /><br />The following SMTP error was encountered: <br />Unable to send email using PHP SMTP.  Your server might not be configured to send mail using this method.<br />The following SMTP error was encountered: 0 php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution<br />Unable to send data: AUTH LOGIN<br />Failed to send AUTH LOGIN command. Error: <br />Unable to send data: MAIL FROM:<wkmania1@gmail.com><br /><pre>from: </pre>The following SMTP error was encountered: <br />Unable to send data: RCPT TO:<katumos@gmail.com><br /><pre>to: </pre>The following SMTP error was encountered: <br />Unable to send data: DATA<br /><pre>data: </pre>The following SMTP error was encountered: <br />Unable to send data: User-Agent: CodeIgniter
+Date: Wed, 20 Apr 2016 12:46:03 -0400
+From: "KAPS Vulcan" <wkmania1@gmail.com>
+Return-Path: <wkmania1@gmail.com>
+To: katumos@gmail.com
+Subject: =?iso-8859-1?Q?Assembly_task_assignment?=
+Reply-To: "wkmania1@gmail.com" <wkmania1@gmail.com>
+X-Sender: wkmania1@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: <5717b24bed270@gmail.com>
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="B_ALT_5717b24bed2ac"
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_5717b24bed2ac
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+KAPS VulcanHello simon katumo, You have an equipment assembly management
+task assigned to you by simon katumo for Equipment EXIT_4554. You will be
+expected to perform and report on progress of task within the stipulated
+duration For more details please log on to your KAPS Vulcan portalKAPS
+Vulcan DisclamerThis email message and any file(s) transmitted with it is
+intended solely for the individual or entity to whom it is addressed and may
+contain confidential and/or legally privileged information which
+confidentiality and/or privilege is not lost or waived by reason of mistaken
+transmission . If you have received this message by error you are not
+authorized to view disseminate distribute or copy the message without the
+written consent of KAPS and are requested to contact the sender by telephone
+or e-mail and destroy the original. AlthoughKAPStakes all reasonable
+precautions to ensure that this message and any file transmitted with it is
+virus free, KAPS accepts no liability for any damage that may be caused by
+any virus transmitted by this email.
+
+
+--B_ALT_5717b24bed2ac
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<h2 style=3D"text-align: center; color: #ff6601">KAPS Vulcan</h2>Hello <b>s=
+imon katumo, </b><br/>You have an equipment assembly management task assign=
+ed to you by simon katumo for Equipment EXIT_4554. <br/>You will be expecte=
+d to perform and report on progress of task within the stipulated duration<=
+p> For more details please log on to your <a href =3D"http://localhost/vulc=
+an/index.php"> KAPS Vulcan </a> portal</p><p>KAPS Vulcan</p><div style =3D =
+"font-style:italic; color:#607D8B; border-top:2px dashed;"><h4> Disclamer</=
+h4><p>This email message and any file(s) transmitted with it is intended so=
+lely for the individual or entity to whom it is addressed and may contain c=
+onfidential and/or legally privileged information which confidentiality and=
+/or privilege is not lost or waived by reason of mistaken transmission . If=
+ you have received this message by error you are not authorized to view dis=
+seminate distribute or copy the message without the written consent of KAPS=
+ and are requested to contact the sender by telephone or e-mail and destroy=
+ the original. AlthoughKAPStakes all reasonable precautions to ensure that =
+this message and any file transmitted with it is virus free, KAPS accepts n=
+o liability for any damage that may be caused by any virus transmitted by t=
+his email.</p></div>
+
+--B_ALT_5717b24bed2ac--<br />Unable to send data: .<br /><br />The following SMTP error was encountered: <br />Unable to send email using PHP SMTP.  Your server might not be configured to send mail using this method.<br /><pre>User-Agent: CodeIgniter
+Date: Wed, 20 Apr 2016 12:46:03 -0400
+From: &quot;KAPS Vulcan&quot; &lt;wkmania1@gmail.com&gt;
+Return-Path: &lt;wkmania1@gmail.com&gt;
+To: katumos@gmail.com
+Subject: =?iso-8859-1?Q?Assembly_task_assignment?=
+Reply-To: &quot;wkmania1@gmail.com&quot; &lt;wkmania1@gmail.com&gt;
+X-Sender: wkmania1@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;5717b24bed270@gmail.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_5717b24bed2ac&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_5717b24bed2ac
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+KAPS VulcanHello simon katumo, You have an equipment assembly management
+task assigned to you by simon katumo for Equipment EXIT_4554. You will be
+expected to perform and report on progress of task within the stipulated
+duration For more details please log on to your KAPS Vulcan portalKAPS
+Vulcan DisclamerThis email message and any file(s) transmitted with it is
+intended solely for the individual or entity to whom it is addressed and may
+contain confidential and/or legally privileged information which
+confidentiality and/or privilege is not lost or waived by reason of mistaken
+transmission . If you have received this message by error you are not
+authorized to view disseminate distribute or copy the message without the
+written consent of KAPS and are requested to contact the sender by telephone
+or e-mail and destroy the original. AlthoughKAPStakes all reasonable
+precautions to ensure that this message and any file transmitted with it is
+virus free, KAPS accepts no liability for any damage that may be caused by
+any virus transmitted by this email.
+
+
+--B_ALT_5717b24bed2ac
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+&lt;h2 style=3D&quot;text-align: center; color: #ff6601&quot;&gt;KAPS Vulcan&lt;/h2&gt;Hello &lt;b&gt;s=
+imon katumo, &lt;/b&gt;&lt;br/&gt;You have an equipment assembly management task assign=
+ed to you by simon katumo for Equipment EXIT_4554. &lt;br/&gt;You will be expecte=
+d to perform and report on progress of task within the stipulated duration&lt;=
+p&gt; For more details please log on to your &lt;a href =3D&quot;http://localhost/vulc=
+an/index.php&quot;&gt; KAPS Vulcan &lt;/a&gt; portal&lt;/p&gt;&lt;p&gt;KAPS Vulcan&lt;/p&gt;&lt;div style =3D =
+&quot;font-style:italic; color:#607D8B; border-top:2px dashed;&quot;&gt;&lt;h4&gt; Disclamer&lt;/=
+h4&gt;&lt;p&gt;This email message and any file(s) transmitted with it is intended so=
+lely for the individual or entity to whom it is addressed and may contain c=
+onfidential and/or legally privileged information which confidentiality and=
+/or privilege is not lost or waived by reason of mistaken transmission . If=
+ you have received this message by error you are not authorized to view dis=
+seminate distribute or copy the message without the written consent of KAPS=
+ and are requested to contact the sender by telephone or e-mail and destroy=
+ the original. AlthoughKAPStakes all reasonable precautions to ensure that =
+this message and any file transmitted with it is virus free, KAPS accepts n=
+o liability for any damage that may be caused by any virus transmitted by t=
+his email.&lt;/p&gt;&lt;/div&gt;
+
+--B_ALT_5717b24bed2ac--</pre>%
+2016-05-02 00:32:47|::1|Failed to send email to sk@kaps.co.keERROR:: The following SMTP error was encountered: 0 <br />Unable to send data: AUTH LOGIN<br />Failed to send AUTH LOGIN command. Error: <br />Unable to send data: MAIL FROM:<wkmania1@gmail.com><br /><pre>from: </pre>The following SMTP error was encountered: <br />Unable to send data: RCPT TO:<sk@kaps.co.ke><br /><pre>to: </pre>The following SMTP error was encountered: <br />Unable to send data: DATA<br /><pre>data: </pre>The following SMTP error was encountered: <br />Unable to send data: User-Agent: CodeIgniter
+Date: Mon, 2 May 2016 00:32:41 +0300
+From: "KAPS Vulcan" <wkmania1@gmail.com>
+Return-Path: <wkmania1@gmail.com>
+To: sk@kaps.co.ke
+Subject: =?iso-8859-1?Q?Account_created?=
+Reply-To: "wkmania1@gmail.com" <wkmania1@gmail.com>
+X-Sender: wkmania1@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: <572675f94d33d@gmail.com>
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="B_ALT_572675f94d380"
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_572675f94d380
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+KAPS VulcanHello Store Keeper, Your account has been created successfully.
+Login usingEmail address: sk@kaps.co.keNew password: 118efb2fOnce logged you
+can manage your account details. . For more details please log on to your
+KAPS Vulcan portalKAPS Vulcan DisclamerThis email message and any file(s)
+transmitted with it is intended solely for the individual or entity to whom
+it is addressed and may contain confidential and/or legally privileged
+information which confidentiality and/or privilege is not lost or waived by
+reason of mistaken transmission . If you have received this message by error
+you are not authorized to view disseminate distribute or copy the message
+without the written consent of KAPS and are requested to contact the sender
+by telephone or e-mail and destroy the original. AlthoughKAPStakes all
+reasonable precautions to ensure that this message and any file transmitted
+with it is virus free, KAPS accepts no liability for any damage that may be
+caused by any virus transmitted by this email.
+
+
+--B_ALT_572675f94d380
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<h2 style=3D"text-align: center; color: #ff6601">KAPS Vulcan</h2>Hello <b>S=
+tore Keeper, </b><br/><p>Your account has been created successfully. Login =
+using</p><p><b>Email address: sk@kaps.co.ke</b></p><p><b>New password: 118e=
+fb2f</b></p><p>Once logged you can manage your account details. .</p><p> Fo=
+r more details please log on to your <a href =3D"http://localhost/vulcan/in=
+dex.php"> KAPS Vulcan </a> portal</p><p>KAPS Vulcan</p><div style =3D "font=
+-style:italic; color:#607D8B; border-top:2px dashed;"><h4> Disclamer</h4><p=
+>This email message and any file(s) transmitted with it is intended solely =
+for the individual or entity to whom it is addressed and may contain confid=
+ential and/or legally privileged information which confidentiality and/or p=
+rivilege is not lost or waived by reason of mistaken transmission . If you =
+have received this message by error you are not authorized to view dissemin=
+ate distribute or copy the message without the written consent of KAPS and =
+are requested to contact the sender by telephone or e-mail and destroy the =
+original. AlthoughKAPStakes all reasonable precautions to ensure that this =
+message and any file transmitted with it is virus free, KAPS accepts no lia=
+bility for any damage that may be caused by any virus transmitted by this e=
+mail.</p></div>
+
+--B_ALT_572675f94d380--<br />Unable to send data: .<br /><br />The following SMTP error was encountered: <br />Unable to send email using PHP SMTP.  Your server might not be configured to send mail using this method.<br /><pre>User-Agent: CodeIgniter
+Date: Mon, 2 May 2016 00:32:41 +0300
+From: &quot;KAPS Vulcan&quot; &lt;wkmania1@gmail.com&gt;
+Return-Path: &lt;wkmania1@gmail.com&gt;
+To: sk@kaps.co.ke
+Subject: =?iso-8859-1?Q?Account_created?=
+Reply-To: &quot;wkmania1@gmail.com&quot; &lt;wkmania1@gmail.com&gt;
+X-Sender: wkmania1@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;572675f94d33d@gmail.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_572675f94d380&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_572675f94d380
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+KAPS VulcanHello Store Keeper, Your account has been created successfully.
+Login usingEmail address: sk@kaps.co.keNew password: 118efb2fOnce logged you
+can manage your account details. . For more details please log on to your
+KAPS Vulcan portalKAPS Vulcan DisclamerThis email message and any file(s)
+transmitted with it is intended solely for the individual or entity to whom
+it is addressed and may contain confidential and/or legally privileged
+information which confidentiality and/or privilege is not lost or waived by
+reason of mistaken transmission . If you have received this message by error
+you are not authorized to view disseminate distribute or copy the message
+without the written consent of KAPS and are requested to contact the sender
+by telephone or e-mail and destroy the original. AlthoughKAPStakes all
+reasonable precautions to ensure that this message and any file transmitted
+with it is virus free, KAPS accepts no liability for any damage that may be
+caused by any virus transmitted by this email.
+
+
+--B_ALT_572675f94d380
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+&lt;h2 style=3D&quot;text-align: center; color: #ff6601&quot;&gt;KAPS Vulcan&lt;/h2&gt;Hello &lt;b&gt;S=
+tore Keeper, &lt;/b&gt;&lt;br/&gt;&lt;p&gt;Your account has been created successfully. Login =
+using&lt;/p&gt;&lt;p&gt;&lt;b&gt;Email address: sk@kaps.co.ke&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;New password: 118e=
+fb2f&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Once logged you can manage your account details. .&lt;/p&gt;&lt;p&gt; Fo=
+r more details please log on to your &lt;a href =3D&quot;http://localhost/vulcan/in=
+dex.php&quot;&gt; KAPS Vulcan &lt;/a&gt; portal&lt;/p&gt;&lt;p&gt;KAPS Vulcan&lt;/p&gt;&lt;div style =3D &quot;font=
+-style:italic; color:#607D8B; border-top:2px dashed;&quot;&gt;&lt;h4&gt; Disclamer&lt;/h4&gt;&lt;p=
+&gt;This email message and any file(s) transmitted with it is intended solely =
+for the individual or entity to whom it is addressed and may contain confid=
+ential and/or legally privileged information which confidentiality and/or p=
+rivilege is not lost or waived by reason of mistaken transmission . If you =
+have received this message by error you are not authorized to view dissemin=
+ate distribute or copy the message without the written consent of KAPS and =
+are requested to contact the sender by telephone or e-mail and destroy the =
+original. AlthoughKAPStakes all reasonable precautions to ensure that this =
+message and any file transmitted with it is virus free, KAPS accepts no lia=
+bility for any damage that may be caused by any virus transmitted by this e=
+mail.&lt;/p&gt;&lt;/div&gt;
+
+--B_ALT_572675f94d380--</pre>%
+2016-05-02 00:38:01|::1|Failed to send email to murungijnr@gmail.comERROR:: The following SMTP error was encountered: 0 <br />Unable to send data: AUTH LOGIN<br />Failed to send AUTH LOGIN command. Error: <br />Unable to send data: MAIL FROM:<wkmania1@gmail.com><br /><pre>from: </pre>The following SMTP error was encountered: <br />Unable to send data: RCPT TO:<murungijnr@gmail.com><br /><pre>to: </pre>The following SMTP error was encountered: <br />Unable to send data: DATA<br /><pre>data: </pre>The following SMTP error was encountered: <br />Unable to send data: User-Agent: CodeIgniter
+Date: Mon, 2 May 2016 00:37:56 +0300
+From: "KAPS Vulcan" <wkmania1@gmail.com>
+Return-Path: <wkmania1@gmail.com>
+To: murungijnr@gmail.com
+Subject: =?iso-8859-1?Q?Profile_Update?=
+Reply-To: "wkmania1@gmail.com" <wkmania1@gmail.com>
+X-Sender: wkmania1@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: <5726773445c93@gmail.com>
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="B_ALT_5726773445cdd"
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_5726773445cdd
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+KAPS VulcanHello Maintenance Store Manager, Your profile details was
+modified by User Controller For more details please log on to your KAPS
+Vulcan portalKAPS Vulcan DisclamerThis email message and any file(s)
+transmitted with it is intended solely for the individual or entity to whom
+it is addressed and may contain confidential and/or legally privileged
+information which confidentiality and/or privilege is not lost or waived by
+reason of mistaken transmission . If you have received this message by error
+you are not authorized to view disseminate distribute or copy the message
+without the written consent of KAPS and are requested to contact the sender
+by telephone or e-mail and destroy the original. AlthoughKAPStakes all
+reasonable precautions to ensure that this message and any file transmitted
+with it is virus free, KAPS accepts no liability for any damage that may be
+caused by any virus transmitted by this email.
+
+
+--B_ALT_5726773445cdd
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<h2 style=3D"text-align: center; color: #ff6601">KAPS Vulcan</h2>Hello <b>M=
+aintenance Store Manager, </b><br/>Your profile details was modified by Use=
+r Controller<p> For more details please log on to your <a href =3D"http://l=
+ocalhost/vulcan/index.php"> KAPS Vulcan </a> portal</p><p>KAPS Vulcan</p><d=
+iv style =3D "font-style:italic; color:#607D8B; border-top:2px dashed;"><h4=
+> Disclamer</h4><p>This email message and any file(s) transmitted with it i=
+s intended solely for the individual or entity to whom it is addressed and =
+may contain confidential and/or legally privileged information which confid=
+entiality and/or privilege is not lost or waived by reason of mistaken tran=
+smission . If you have received this message by error you are not authorize=
+d to view disseminate distribute or copy the message without the written co=
+nsent of KAPS and are requested to contact the sender by telephone or e-mai=
+l and destroy the original. AlthoughKAPStakes all reasonable precautions to=
+ ensure that this message and any file transmitted with it is virus free, K=
+APS accepts no liability for any damage that may be caused by any virus tra=
+nsmitted by this email.</p></div>
+
+--B_ALT_5726773445cdd--<br />Unable to send data: .<br /><br />The following SMTP error was encountered: <br />Unable to send email using PHP SMTP.  Your server might not be configured to send mail using this method.<br /><pre>User-Agent: CodeIgniter
+Date: Mon, 2 May 2016 00:37:56 +0300
+From: &quot;KAPS Vulcan&quot; &lt;wkmania1@gmail.com&gt;
+Return-Path: &lt;wkmania1@gmail.com&gt;
+To: murungijnr@gmail.com
+Subject: =?iso-8859-1?Q?Profile_Update?=
+Reply-To: &quot;wkmania1@gmail.com&quot; &lt;wkmania1@gmail.com&gt;
+X-Sender: wkmania1@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;5726773445c93@gmail.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_5726773445cdd&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_5726773445cdd
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+KAPS VulcanHello Maintenance Store Manager, Your profile details was
+modified by User Controller For more details please log on to your KAPS
+Vulcan portalKAPS Vulcan DisclamerThis email message and any file(s)
+transmitted with it is intended solely for the individual or entity to whom
+it is addressed and may contain confidential and/or legally privileged
+information which confidentiality and/or privilege is not lost or waived by
+reason of mistaken transmission . If you have received this message by error
+you are not authorized to view disseminate distribute or copy the message
+without the written consent of KAPS and are requested to contact the sender
+by telephone or e-mail and destroy the original. AlthoughKAPStakes all
+reasonable precautions to ensure that this message and any file transmitted
+with it is virus free, KAPS accepts no liability for any damage that may be
+caused by any virus transmitted by this email.
+
+
+--B_ALT_5726773445cdd
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+&lt;h2 style=3D&quot;text-align: center; color: #ff6601&quot;&gt;KAPS Vulcan&lt;/h2&gt;Hello &lt;b&gt;M=
+aintenance Store Manager, &lt;/b&gt;&lt;br/&gt;Your profile details was modified by Use=
+r Controller&lt;p&gt; For more details please log on to your &lt;a href =3D&quot;http://l=
+ocalhost/vulcan/index.php&quot;&gt; KAPS Vulcan &lt;/a&gt; portal&lt;/p&gt;&lt;p&gt;KAPS Vulcan&lt;/p&gt;&lt;d=
+iv style =3D &quot;font-style:italic; color:#607D8B; border-top:2px dashed;&quot;&gt;&lt;h4=
+&gt; Disclamer&lt;/h4&gt;&lt;p&gt;This email message and any file(s) transmitted with it i=
+s intended solely for the individual or entity to whom it is addressed and =
+may contain confidential and/or legally privileged information which confid=
+entiality and/or privilege is not lost or waived by reason of mistaken tran=
+smission . If you have received this message by error you are not authorize=
+d to view disseminate distribute or copy the message without the written co=
+nsent of KAPS and are requested to contact the sender by telephone or e-mai=
+l and destroy the original. AlthoughKAPStakes all reasonable precautions to=
+ ensure that this message and any file transmitted with it is virus free, K=
+APS accepts no liability for any damage that may be caused by any virus tra=
+nsmitted by this email.&lt;/p&gt;&lt;/div&gt;
+
+--B_ALT_5726773445cdd--</pre>%
+2016-05-02 01:47:06|::1|Failed to send email to eam@kaps.co.keERROR:: The following SMTP error was encountered: 0 <br />Unable to send data: AUTH LOGIN<br />Failed to send AUTH LOGIN command. Error: <br />Unable to send data: MAIL FROM:<wkmania1@gmail.com><br /><pre>from: </pre>The following SMTP error was encountered: <br />Unable to send data: RCPT TO:<eam@kaps.co.ke><br /><pre>to: </pre>The following SMTP error was encountered: <br />Unable to send data: DATA<br /><pre>data: </pre>The following SMTP error was encountered: <br />Unable to send data: User-Agent: CodeIgniter
+Date: Mon, 2 May 2016 01:47:00 +0300
+From: "KAPS Vulcan" <wkmania1@gmail.com>
+Return-Path: <wkmania1@gmail.com>
+To: eam@kaps.co.ke
+Subject: =?iso-8859-1?Q?Profile_Update?=
+Reply-To: "wkmania1@gmail.com" <wkmania1@gmail.com>
+X-Sender: wkmania1@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: <572687649ace7@gmail.com>
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="B_ALT_572687649ad25"
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_572687649ad25
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+KAPS VulcanHello simon katumo, Your profile details was modified by User
+Controller For more details please log on to your KAPS Vulcan portalKAPS
+Vulcan DisclamerThis email message and any file(s) transmitted with it is
+intended solely for the individual or entity to whom it is addressed and may
+contain confidential and/or legally privileged information which
+confidentiality and/or privilege is not lost or waived by reason of mistaken
+transmission . If you have received this message by error you are not
+authorized to view disseminate distribute or copy the message without the
+written consent of KAPS and are requested to contact the sender by telephone
+or e-mail and destroy the original. AlthoughKAPStakes all reasonable
+precautions to ensure that this message and any file transmitted with it is
+virus free, KAPS accepts no liability for any damage that may be caused by
+any virus transmitted by this email.
+
+
+--B_ALT_572687649ad25
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<h2 style=3D"text-align: center; color: #ff6601">KAPS Vulcan</h2>Hello <b>s=
+imon katumo, </b><br/>Your profile details was modified by User Controller<=
+p> For more details please log on to your <a href =3D"http://localhost/vulc=
+an/index.php"> KAPS Vulcan </a> portal</p><p>KAPS Vulcan</p><div style =3D =
+"font-style:italic; color:#607D8B; border-top:2px dashed;"><h4> Disclamer</=
+h4><p>This email message and any file(s) transmitted with it is intended so=
+lely for the individual or entity to whom it is addressed and may contain c=
+onfidential and/or legally privileged information which confidentiality and=
+/or privilege is not lost or waived by reason of mistaken transmission . If=
+ you have received this message by error you are not authorized to view dis=
+seminate distribute or copy the message without the written consent of KAPS=
+ and are requested to contact the sender by telephone or e-mail and destroy=
+ the original. AlthoughKAPStakes all reasonable precautions to ensure that =
+this message and any file transmitted with it is virus free, KAPS accepts n=
+o liability for any damage that may be caused by any virus transmitted by t=
+his email.</p></div>
+
+--B_ALT_572687649ad25--<br />Unable to send data: .<br /><br />The following SMTP error was encountered: <br />Unable to send email using PHP SMTP.  Your server might not be configured to send mail using this method.<br /><pre>User-Agent: CodeIgniter
+Date: Mon, 2 May 2016 01:47:00 +0300
+From: &quot;KAPS Vulcan&quot; &lt;wkmania1@gmail.com&gt;
+Return-Path: &lt;wkmania1@gmail.com&gt;
+To: eam@kaps.co.ke
+Subject: =?iso-8859-1?Q?Profile_Update?=
+Reply-To: &quot;wkmania1@gmail.com&quot; &lt;wkmania1@gmail.com&gt;
+X-Sender: wkmania1@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;572687649ace7@gmail.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_572687649ad25&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_572687649ad25
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+KAPS VulcanHello simon katumo, Your profile details was modified by User
+Controller For more details please log on to your KAPS Vulcan portalKAPS
+Vulcan DisclamerThis email message and any file(s) transmitted with it is
+intended solely for the individual or entity to whom it is addressed and may
+contain confidential and/or legally privileged information which
+confidentiality and/or privilege is not lost or waived by reason of mistaken
+transmission . If you have received this message by error you are not
+authorized to view disseminate distribute or copy the message without the
+written consent of KAPS and are requested to contact the sender by telephone
+or e-mail and destroy the original. AlthoughKAPStakes all reasonable
+precautions to ensure that this message and any file transmitted with it is
+virus free, KAPS accepts no liability for any damage that may be caused by
+any virus transmitted by this email.
+
+
+--B_ALT_572687649ad25
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+&lt;h2 style=3D&quot;text-align: center; color: #ff6601&quot;&gt;KAPS Vulcan&lt;/h2&gt;Hello &lt;b&gt;s=
+imon katumo, &lt;/b&gt;&lt;br/&gt;Your profile details was modified by User Controller&lt;=
+p&gt; For more details please log on to your &lt;a href =3D&quot;http://localhost/vulc=
+an/index.php&quot;&gt; KAPS Vulcan &lt;/a&gt; portal&lt;/p&gt;&lt;p&gt;KAPS Vulcan&lt;/p&gt;&lt;div style =3D =
+&quot;font-style:italic; color:#607D8B; border-top:2px dashed;&quot;&gt;&lt;h4&gt; Disclamer&lt;/=
+h4&gt;&lt;p&gt;This email message and any file(s) transmitted with it is intended so=
+lely for the individual or entity to whom it is addressed and may contain c=
+onfidential and/or legally privileged information which confidentiality and=
+/or privilege is not lost or waived by reason of mistaken transmission . If=
+ you have received this message by error you are not authorized to view dis=
+seminate distribute or copy the message without the written consent of KAPS=
+ and are requested to contact the sender by telephone or e-mail and destroy=
+ the original. AlthoughKAPStakes all reasonable precautions to ensure that =
+this message and any file transmitted with it is virus free, KAPS accepts n=
+o liability for any damage that may be caused by any virus transmitted by t=
+his email.&lt;/p&gt;&lt;/div&gt;
+
+--B_ALT_572687649ad25--</pre>%
+2016-05-02 01:47:58|::1|Failed to send email to eam@kaps.co.keERROR:: The following SMTP error was encountered: 0 <br />Unable to send data: AUTH LOGIN<br />Failed to send AUTH LOGIN command. Error: <br />Unable to send data: MAIL FROM:<wkmania1@gmail.com><br /><pre>from: </pre>The following SMTP error was encountered: <br />Unable to send data: RCPT TO:<eam@kaps.co.ke><br /><pre>to: </pre>The following SMTP error was encountered: <br />Unable to send data: DATA<br /><pre>data: </pre>The following SMTP error was encountered: <br />Unable to send data: User-Agent: CodeIgniter
+Date: Mon, 2 May 2016 01:47:51 +0300
+From: "KAPS Vulcan" <wkmania1@gmail.com>
+Return-Path: <wkmania1@gmail.com>
+To: eam@kaps.co.ke
+Subject: =?iso-8859-1?Q?Profile_Update?=
+Reply-To: "wkmania1@gmail.com" <wkmania1@gmail.com>
+X-Sender: wkmania1@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: <5726879763b64@gmail.com>
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="B_ALT_5726879763ba1"
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_5726879763ba1
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+KAPS VulcanHello Equipment Assembler, Your profile details was modified by
+User Controller For more details please log on to your KAPS Vulcan
+portalKAPS Vulcan DisclamerThis email message and any file(s) transmitted
+with it is intended solely for the individual or entity to whom it is
+addressed and may contain confidential and/or legally privileged information
+which confidentiality and/or privilege is not lost or waived by reason of
+mistaken transmission . If you have received this message by error you are
+not authorized to view disseminate distribute or copy the message without
+the written consent of KAPS and are requested to contact the sender by
+telephone or e-mail and destroy the original. AlthoughKAPStakes all
+reasonable precautions to ensure that this message and any file transmitted
+with it is virus free, KAPS accepts no liability for any damage that may be
+caused by any virus transmitted by this email.
+
+
+--B_ALT_5726879763ba1
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<h2 style=3D"text-align: center; color: #ff6601">KAPS Vulcan</h2>Hello <b>E=
+quipment Assembler, </b><br/>Your profile details was modified by User Cont=
+roller<p> For more details please log on to your <a href =3D"http://localho=
+st/vulcan/index.php"> KAPS Vulcan </a> portal</p><p>KAPS Vulcan</p><div sty=
+le =3D "font-style:italic; color:#607D8B; border-top:2px dashed;"><h4> Disc=
+lamer</h4><p>This email message and any file(s) transmitted with it is inte=
+nded solely for the individual or entity to whom it is addressed and may co=
+ntain confidential and/or legally privileged information which confidential=
+ity and/or privilege is not lost or waived by reason of mistaken transmissi=
+on . If you have received this message by error you are not authorized to v=
+iew disseminate distribute or copy the message without the written consent =
+of KAPS and are requested to contact the sender by telephone or e-mail and =
+destroy the original. AlthoughKAPStakes all reasonable precautions to ensur=
+e that this message and any file transmitted with it is virus free, KAPS ac=
+cepts no liability for any damage that may be caused by any virus transmitt=
+ed by this email.</p></div>
+
+--B_ALT_5726879763ba1--<br />Unable to send data: .<br /><br />The following SMTP error was encountered: <br />Unable to send email using PHP SMTP.  Your server might not be configured to send mail using this method.<br /><pre>User-Agent: CodeIgniter
+Date: Mon, 2 May 2016 01:47:51 +0300
+From: &quot;KAPS Vulcan&quot; &lt;wkmania1@gmail.com&gt;
+Return-Path: &lt;wkmania1@gmail.com&gt;
+To: eam@kaps.co.ke
+Subject: =?iso-8859-1?Q?Profile_Update?=
+Reply-To: &quot;wkmania1@gmail.com&quot; &lt;wkmania1@gmail.com&gt;
+X-Sender: wkmania1@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;5726879763b64@gmail.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_5726879763ba1&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_5726879763ba1
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+KAPS VulcanHello Equipment Assembler, Your profile details was modified by
+User Controller For more details please log on to your KAPS Vulcan
+portalKAPS Vulcan DisclamerThis email message and any file(s) transmitted
+with it is intended solely for the individual or entity to whom it is
+addressed and may contain confidential and/or legally privileged information
+which confidentiality and/or privilege is not lost or waived by reason of
+mistaken transmission . If you have received this message by error you are
+not authorized to view disseminate distribute or copy the message without
+the written consent of KAPS and are requested to contact the sender by
+telephone or e-mail and destroy the original. AlthoughKAPStakes all
+reasonable precautions to ensure that this message and any file transmitted
+with it is virus free, KAPS accepts no liability for any damage that may be
+caused by any virus transmitted by this email.
+
+
+--B_ALT_5726879763ba1
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+&lt;h2 style=3D&quot;text-align: center; color: #ff6601&quot;&gt;KAPS Vulcan&lt;/h2&gt;Hello &lt;b&gt;E=
+quipment Assembler, &lt;/b&gt;&lt;br/&gt;Your profile details was modified by User Cont=
+roller&lt;p&gt; For more details please log on to your &lt;a href =3D&quot;http://localho=
+st/vulcan/index.php&quot;&gt; KAPS Vulcan &lt;/a&gt; portal&lt;/p&gt;&lt;p&gt;KAPS Vulcan&lt;/p&gt;&lt;div sty=
+le =3D &quot;font-style:italic; color:#607D8B; border-top:2px dashed;&quot;&gt;&lt;h4&gt; Disc=
+lamer&lt;/h4&gt;&lt;p&gt;This email message and any file(s) transmitted with it is inte=
+nded solely for the individual or entity to whom it is addressed and may co=
+ntain confidential and/or legally privileged information which confidential=
+ity and/or privilege is not lost or waived by reason of mistaken transmissi=
+on . If you have received this message by error you are not authorized to v=
+iew disseminate distribute or copy the message without the written consent =
+of KAPS and are requested to contact the sender by telephone or e-mail and =
+destroy the original. AlthoughKAPStakes all reasonable precautions to ensur=
+e that this message and any file transmitted with it is virus free, KAPS ac=
+cepts no liability for any damage that may be caused by any virus transmitt=
+ed by this email.&lt;/p&gt;&lt;/div&gt;
+
+--B_ALT_5726879763ba1--</pre>%
+2016-05-02 01:49:14|::1|Failed to send email to eam@kaps.co.keERROR:: The following SMTP error was encountered: 0 <br />Unable to send data: AUTH LOGIN<br />Failed to send AUTH LOGIN command. Error: <br />Unable to send data: MAIL FROM:<wkmania1@gmail.com><br /><pre>from: </pre>The following SMTP error was encountered: <br />Unable to send data: RCPT TO:<eam@kaps.co.ke><br /><pre>to: </pre>The following SMTP error was encountered: <br />Unable to send data: DATA<br /><pre>data: </pre>The following SMTP error was encountered: <br />Unable to send data: User-Agent: CodeIgniter
+Date: Mon, 2 May 2016 01:49:08 +0300
+From: "KAPS Vulcan" <wkmania1@gmail.com>
+Return-Path: <wkmania1@gmail.com>
+To: eam@kaps.co.ke
+Subject: =?iso-8859-1?Q?Assembly_manager_assignment?=
+Reply-To: "wkmania1@gmail.com" <wkmania1@gmail.com>
+X-Sender: wkmania1@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: <572687e46d960@gmail.com>
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="B_ALT_572687e46d99e"
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_572687e46d99e
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+KAPS VulcanHello Equipment Assembler, You have a new equipment Assembly
+management task assigned to you by Assembly Store for Equipment . You will
+be expected to manage and report on progress of Assembly and assign roles to
+ other members of the team For more details please log on to your KAPS
+Vulcan portalKAPS Vulcan DisclamerThis email message and any file(s)
+transmitted with it is intended solely for the individual or entity to whom
+it is addressed and may contain confidential and/or legally privileged
+information which confidentiality and/or privilege is not lost or waived by
+reason of mistaken transmission . If you have received this message by error
+you are not authorized to view disseminate distribute or copy the message
+without the written consent of KAPS and are requested to contact the sender
+by telephone or e-mail and destroy the original. AlthoughKAPStakes all
+reasonable precautions to ensure that this message and any file transmitted
+with it is virus free, KAPS accepts no liability for any damage that may be
+caused by any virus transmitted by this email.
+
+
+--B_ALT_572687e46d99e
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<h2 style=3D"text-align: center; color: #ff6601">KAPS Vulcan</h2>Hello <b>E=
+quipment Assembler, </b><br/>You have a new equipment Assembly management t=
+ask assigned to you by Assembly Store for Equipment . <br/>You will be expe=
+cted to manage and report on progress of Assembly and assign roles to
+ other members of the team<p> For more details please log on to your <a hre=
+f =3D"http://localhost/vulcan/index.php"> KAPS Vulcan </a> portal</p><p>KAP=
+S Vulcan</p><div style =3D "font-style:italic; color:#607D8B; border-top:2p=
+x dashed;"><h4> Disclamer</h4><p>This email message and any file(s) transmi=
+tted with it is intended solely for the individual or entity to whom it is =
+addressed and may contain confidential and/or legally privileged informatio=
+n which confidentiality and/or privilege is not lost or waived by reason of=
+ mistaken transmission . If you have received this message by error you are=
+ not authorized to view disseminate distribute or copy the message without =
+the written consent of KAPS and are requested to contact the sender by tele=
+phone or e-mail and destroy the original. AlthoughKAPStakes all reasonable =
+precautions to ensure that this message and any file transmitted with it is=
+ virus free, KAPS accepts no liability for any damage that may be caused by=
+ any virus transmitted by this email.</p></div>
+
+--B_ALT_572687e46d99e--<br />Unable to send data: .<br /><br />The following SMTP error was encountered: <br />Unable to send email using PHP SMTP.  Your server might not be configured to send mail using this method.<br /><pre>User-Agent: CodeIgniter
+Date: Mon, 2 May 2016 01:49:08 +0300
+From: &quot;KAPS Vulcan&quot; &lt;wkmania1@gmail.com&gt;
+Return-Path: &lt;wkmania1@gmail.com&gt;
+To: eam@kaps.co.ke
+Subject: =?iso-8859-1?Q?Assembly_manager_assignment?=
+Reply-To: &quot;wkmania1@gmail.com&quot; &lt;wkmania1@gmail.com&gt;
+X-Sender: wkmania1@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;572687e46d960@gmail.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_572687e46d99e&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_572687e46d99e
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+KAPS VulcanHello Equipment Assembler, You have a new equipment Assembly
+management task assigned to you by Assembly Store for Equipment . You will
+be expected to manage and report on progress of Assembly and assign roles to
+ other members of the team For more details please log on to your KAPS
+Vulcan portalKAPS Vulcan DisclamerThis email message and any file(s)
+transmitted with it is intended solely for the individual or entity to whom
+it is addressed and may contain confidential and/or legally privileged
+information which confidentiality and/or privilege is not lost or waived by
+reason of mistaken transmission . If you have received this message by error
+you are not authorized to view disseminate distribute or copy the message
+without the written consent of KAPS and are requested to contact the sender
+by telephone or e-mail and destroy the original. AlthoughKAPStakes all
+reasonable precautions to ensure that this message and any file transmitted
+with it is virus free, KAPS accepts no liability for any damage that may be
+caused by any virus transmitted by this email.
+
+
+--B_ALT_572687e46d99e
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+&lt;h2 style=3D&quot;text-align: center; color: #ff6601&quot;&gt;KAPS Vulcan&lt;/h2&gt;Hello &lt;b&gt;E=
+quipment Assembler, &lt;/b&gt;&lt;br/&gt;You have a new equipment Assembly management t=
+ask assigned to you by Assembly Store for Equipment . &lt;br/&gt;You will be expe=
+cted to manage and report on progress of Assembly and assign roles to
+ other members of the team&lt;p&gt; For more details please log on to your &lt;a hre=
+f =3D&quot;http://localhost/vulcan/index.php&quot;&gt; KAPS Vulcan &lt;/a&gt; portal&lt;/p&gt;&lt;p&gt;KAP=
+S Vulcan&lt;/p&gt;&lt;div style =3D &quot;font-style:italic; color:#607D8B; border-top:2p=
+x dashed;&quot;&gt;&lt;h4&gt; Disclamer&lt;/h4&gt;&lt;p&gt;This email message and any file(s) transmi=
+tted with it is intended solely for the individual or entity to whom it is =
+addressed and may contain confidential and/or legally privileged informatio=
+n which confidentiality and/or privilege is not lost or waived by reason of=
+ mistaken transmission . If you have received this message by error you are=
+ not authorized to view disseminate distribute or copy the message without =
+the written consent of KAPS and are requested to contact the sender by tele=
+phone or e-mail and destroy the original. AlthoughKAPStakes all reasonable =
+precautions to ensure that this message and any file transmitted with it is=
+ virus free, KAPS accepts no liability for any damage that may be caused by=
+ any virus transmitted by this email.&lt;/p&gt;&lt;/div&gt;
+
+--B_ALT_572687e46d99e--</pre>%
+2016-05-02 02:01:01|::1|Failed to send email to eam@kaps.co.keERROR:: The following SMTP error was encountered: 0 <br />Unable to send data: AUTH LOGIN<br />Failed to send AUTH LOGIN command. Error: <br />Unable to send data: MAIL FROM:<wkmania1@gmail.com><br /><pre>from: </pre>The following SMTP error was encountered: <br />Unable to send data: RCPT TO:<eam@kaps.co.ke><br /><pre>to: </pre>The following SMTP error was encountered: <br />Unable to send data: DATA<br /><pre>data: </pre>The following SMTP error was encountered: <br />Unable to send data: User-Agent: CodeIgniter
+Date: Mon, 2 May 2016 02:00:55 +0300
+From: "KAPS Vulcan" <wkmania1@gmail.com>
+Return-Path: <wkmania1@gmail.com>
+To: eam@kaps.co.ke
+Subject: =?iso-8859-1?Q?Assembly_manager_assignment?=
+Reply-To: "wkmania1@gmail.com" <wkmania1@gmail.com>
+X-Sender: wkmania1@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: <57268aa7316d9@gmail.com>
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="B_ALT_57268aa731718"
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_57268aa731718
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+KAPS VulcanHello Equipment Assembler, You have a new equipment Assembly
+management task assigned to you by Assembly Store for Equipment . You will
+be expected to manage and report on progress of Assembly and assign roles to
+ other members of the team For more details please log on to your KAPS
+Vulcan portalKAPS Vulcan DisclamerThis email message and any file(s)
+transmitted with it is intended solely for the individual or entity to whom
+it is addressed and may contain confidential and/or legally privileged
+information which confidentiality and/or privilege is not lost or waived by
+reason of mistaken transmission . If you have received this message by error
+you are not authorized to view disseminate distribute or copy the message
+without the written consent of KAPS and are requested to contact the sender
+by telephone or e-mail and destroy the original. AlthoughKAPStakes all
+reasonable precautions to ensure that this message and any file transmitted
+with it is virus free, KAPS accepts no liability for any damage that may be
+caused by any virus transmitted by this email.
+
+
+--B_ALT_57268aa731718
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<h2 style=3D"text-align: center; color: #ff6601">KAPS Vulcan</h2>Hello <b>E=
+quipment Assembler, </b><br/>You have a new equipment Assembly management t=
+ask assigned to you by Assembly Store for Equipment . <br/>You will be expe=
+cted to manage and report on progress of Assembly and assign roles to
+ other members of the team<p> For more details please log on to your <a hre=
+f =3D"http://localhost/vulcan/index.php"> KAPS Vulcan </a> portal</p><p>KAP=
+S Vulcan</p><div style =3D "font-style:italic; color:#607D8B; border-top:2p=
+x dashed;"><h4> Disclamer</h4><p>This email message and any file(s) transmi=
+tted with it is intended solely for the individual or entity to whom it is =
+addressed and may contain confidential and/or legally privileged informatio=
+n which confidentiality and/or privilege is not lost or waived by reason of=
+ mistaken transmission . If you have received this message by error you are=
+ not authorized to view disseminate distribute or copy the message without =
+the written consent of KAPS and are requested to contact the sender by tele=
+phone or e-mail and destroy the original. AlthoughKAPStakes all reasonable =
+precautions to ensure that this message and any file transmitted with it is=
+ virus free, KAPS accepts no liability for any damage that may be caused by=
+ any virus transmitted by this email.</p></div>
+
+--B_ALT_57268aa731718--<br />Unable to send data: .<br /><br />The following SMTP error was encountered: <br />Unable to send email using PHP SMTP.  Your server might not be configured to send mail using this method.<br /><pre>User-Agent: CodeIgniter
+Date: Mon, 2 May 2016 02:00:55 +0300
+From: &quot;KAPS Vulcan&quot; &lt;wkmania1@gmail.com&gt;
+Return-Path: &lt;wkmania1@gmail.com&gt;
+To: eam@kaps.co.ke
+Subject: =?iso-8859-1?Q?Assembly_manager_assignment?=
+Reply-To: &quot;wkmania1@gmail.com&quot; &lt;wkmania1@gmail.com&gt;
+X-Sender: wkmania1@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;57268aa7316d9@gmail.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_57268aa731718&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_57268aa731718
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+KAPS VulcanHello Equipment Assembler, You have a new equipment Assembly
+management task assigned to you by Assembly Store for Equipment . You will
+be expected to manage and report on progress of Assembly and assign roles to
+ other members of the team For more details please log on to your KAPS
+Vulcan portalKAPS Vulcan DisclamerThis email message and any file(s)
+transmitted with it is intended solely for the individual or entity to whom
+it is addressed and may contain confidential and/or legally privileged
+information which confidentiality and/or privilege is not lost or waived by
+reason of mistaken transmission . If you have received this message by error
+you are not authorized to view disseminate distribute or copy the message
+without the written consent of KAPS and are requested to contact the sender
+by telephone or e-mail and destroy the original. AlthoughKAPStakes all
+reasonable precautions to ensure that this message and any file transmitted
+with it is virus free, KAPS accepts no liability for any damage that may be
+caused by any virus transmitted by this email.
+
+
+--B_ALT_57268aa731718
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+&lt;h2 style=3D&quot;text-align: center; color: #ff6601&quot;&gt;KAPS Vulcan&lt;/h2&gt;Hello &lt;b&gt;E=
+quipment Assembler, &lt;/b&gt;&lt;br/&gt;You have a new equipment Assembly management t=
+ask assigned to you by Assembly Store for Equipment . &lt;br/&gt;You will be expe=
+cted to manage and report on progress of Assembly and assign roles to
+ other members of the team&lt;p&gt; For more details please log on to your &lt;a hre=
+f =3D&quot;http://localhost/vulcan/index.php&quot;&gt; KAPS Vulcan &lt;/a&gt; portal&lt;/p&gt;&lt;p&gt;KAP=
+S Vulcan&lt;/p&gt;&lt;div style =3D &quot;font-style:italic; color:#607D8B; border-top:2p=
+x dashed;&quot;&gt;&lt;h4&gt; Disclamer&lt;/h4&gt;&lt;p&gt;This email message and any file(s) transmi=
+tted with it is intended solely for the individual or entity to whom it is =
+addressed and may contain confidential and/or legally privileged informatio=
+n which confidentiality and/or privilege is not lost or waived by reason of=
+ mistaken transmission . If you have received this message by error you are=
+ not authorized to view disseminate distribute or copy the message without =
+the written consent of KAPS and are requested to contact the sender by tele=
+phone or e-mail and destroy the original. AlthoughKAPStakes all reasonable =
+precautions to ensure that this message and any file transmitted with it is=
+ virus free, KAPS accepts no liability for any damage that may be caused by=
+ any virus transmitted by this email.&lt;/p&gt;&lt;/div&gt;
+
+--B_ALT_57268aa731718--</pre>%
+2016-05-02 02:47:00|::1|Failed to send email to eam@kaps.co.keERROR:: The following SMTP error was encountered: 0 <br />Unable to send data: AUTH LOGIN<br />Failed to send AUTH LOGIN command. Error: <br />Unable to send data: MAIL FROM:<wkmania1@gmail.com><br /><pre>from: </pre>The following SMTP error was encountered: <br />Unable to send data: RCPT TO:<eam@kaps.co.ke><br /><pre>to: </pre>The following SMTP error was encountered: <br />Unable to send data: DATA<br /><pre>data: </pre>The following SMTP error was encountered: <br />Unable to send data: User-Agent: CodeIgniter
+Date: Mon, 2 May 2016 02:46:54 +0300
+From: "KAPS Vulcan" <wkmania1@gmail.com>
+Return-Path: <wkmania1@gmail.com>
+To: eam@kaps.co.ke
+Subject: =?iso-8859-1?Q?Assembly_task_assignment?=
+Reply-To: "wkmania1@gmail.com" <wkmania1@gmail.com>
+X-Sender: wkmania1@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: <5726956eac0af@gmail.com>
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="B_ALT_5726956eac0ed"
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_5726956eac0ed
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+KAPS VulcanHello Equipment Assembler, You have an equipment assembly
+management task assigned to you by Equipment Assembler for Equipment
+TEST_EQ_NO_2. You will be expected to perform and report on progress of task
+within the stipulated duration For more details please log on to your KAPS
+Vulcan portalKAPS Vulcan DisclamerThis email message and any file(s)
+transmitted with it is intended solely for the individual or entity to whom
+it is addressed and may contain confidential and/or legally privileged
+information which confidentiality and/or privilege is not lost or waived by
+reason of mistaken transmission . If you have received this message by error
+you are not authorized to view disseminate distribute or copy the message
+without the written consent of KAPS and are requested to contact the sender
+by telephone or e-mail and destroy the original. AlthoughKAPStakes all
+reasonable precautions to ensure that this message and any file transmitted
+with it is virus free, KAPS accepts no liability for any damage that may be
+caused by any virus transmitted by this email.
+
+
+--B_ALT_5726956eac0ed
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<h2 style=3D"text-align: center; color: #ff6601">KAPS Vulcan</h2>Hello <b>E=
+quipment Assembler, </b><br/>You have an equipment assembly management task=
+ assigned to you by Equipment Assembler for Equipment TEST_EQ_NO_2. <br/>Yo=
+u will be expected to perform and report on progress of task within the sti=
+pulated duration<p> For more details please log on to your <a href =3D"http=
+://localhost/vulcan/index.php"> KAPS Vulcan </a> portal</p><p>KAPS Vulcan</=
+p><div style =3D "font-style:italic; color:#607D8B; border-top:2px dashed;"=
+><h4> Disclamer</h4><p>This email message and any file(s) transmitted with =
+it is intended solely for the individual or entity to whom it is addressed =
+and may contain confidential and/or legally privileged information which co=
+nfidentiality and/or privilege is not lost or waived by reason of mistaken =
+transmission . If you have received this message by error you are not autho=
+rized to view disseminate distribute or copy the message without the writte=
+n consent of KAPS and are requested to contact the sender by telephone or e=
+-mail and destroy the original. AlthoughKAPStakes all reasonable precaution=
+s to ensure that this message and any file transmitted with it is virus fre=
+e, KAPS accepts no liability for any damage that may be caused by any virus=
+ transmitted by this email.</p></div>
+
+--B_ALT_5726956eac0ed--<br />Unable to send data: .<br /><br />The following SMTP error was encountered: <br />Unable to send email using PHP SMTP.  Your server might not be configured to send mail using this method.<br /><pre>User-Agent: CodeIgniter
+Date: Mon, 2 May 2016 02:46:54 +0300
+From: &quot;KAPS Vulcan&quot; &lt;wkmania1@gmail.com&gt;
+Return-Path: &lt;wkmania1@gmail.com&gt;
+To: eam@kaps.co.ke
+Subject: =?iso-8859-1?Q?Assembly_task_assignment?=
+Reply-To: &quot;wkmania1@gmail.com&quot; &lt;wkmania1@gmail.com&gt;
+X-Sender: wkmania1@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;5726956eac0af@gmail.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_5726956eac0ed&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_5726956eac0ed
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+KAPS VulcanHello Equipment Assembler, You have an equipment assembly
+management task assigned to you by Equipment Assembler for Equipment
+TEST_EQ_NO_2. You will be expected to perform and report on progress of task
+within the stipulated duration For more details please log on to your KAPS
+Vulcan portalKAPS Vulcan DisclamerThis email message and any file(s)
+transmitted with it is intended solely for the individual or entity to whom
+it is addressed and may contain confidential and/or legally privileged
+information which confidentiality and/or privilege is not lost or waived by
+reason of mistaken transmission . If you have received this message by error
+you are not authorized to view disseminate distribute or copy the message
+without the written consent of KAPS and are requested to contact the sender
+by telephone or e-mail and destroy the original. AlthoughKAPStakes all
+reasonable precautions to ensure that this message and any file transmitted
+with it is virus free, KAPS accepts no liability for any damage that may be
+caused by any virus transmitted by this email.
+
+
+--B_ALT_5726956eac0ed
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+&lt;h2 style=3D&quot;text-align: center; color: #ff6601&quot;&gt;KAPS Vulcan&lt;/h2&gt;Hello &lt;b&gt;E=
+quipment Assembler, &lt;/b&gt;&lt;br/&gt;You have an equipment assembly management task=
+ assigned to you by Equipment Assembler for Equipment TEST_EQ_NO_2. &lt;br/&gt;Yo=
+u will be expected to perform and report on progress of task within the sti=
+pulated duration&lt;p&gt; For more details please log on to your &lt;a href =3D&quot;http=
+://localhost/vulcan/index.php&quot;&gt; KAPS Vulcan &lt;/a&gt; portal&lt;/p&gt;&lt;p&gt;KAPS Vulcan&lt;/=
+p&gt;&lt;div style =3D &quot;font-style:italic; color:#607D8B; border-top:2px dashed;&quot;=
+&gt;&lt;h4&gt; Disclamer&lt;/h4&gt;&lt;p&gt;This email message and any file(s) transmitted with =
+it is intended solely for the individual or entity to whom it is addressed =
+and may contain confidential and/or legally privileged information which co=
+nfidentiality and/or privilege is not lost or waived by reason of mistaken =
+transmission . If you have received this message by error you are not autho=
+rized to view disseminate distribute or copy the message without the writte=
+n consent of KAPS and are requested to contact the sender by telephone or e=
+-mail and destroy the original. AlthoughKAPStakes all reasonable precaution=
+s to ensure that this message and any file transmitted with it is virus fre=
+e, KAPS accepts no liability for any damage that may be caused by any virus=
+ transmitted by this email.&lt;/p&gt;&lt;/div&gt;
+
+--B_ALT_5726956eac0ed--</pre>%
+2016-05-02 02:48:41|::1|Failed to send email to eam@kaps.co.keERROR:: The following SMTP error was encountered: 0 <br />Unable to send data: AUTH LOGIN<br />Failed to send AUTH LOGIN command. Error: <br />Unable to send data: MAIL FROM:<wkmania1@gmail.com><br /><pre>from: </pre>The following SMTP error was encountered: <br />Unable to send data: RCPT TO:<eam@kaps.co.ke><br /><pre>to: </pre>The following SMTP error was encountered: <br />Unable to send data: DATA<br /><pre>data: </pre>The following SMTP error was encountered: <br />Unable to send data: User-Agent: CodeIgniter
+Date: Mon, 2 May 2016 02:48:36 +0300
+From: "KAPS Vulcan" <wkmania1@gmail.com>
+Return-Path: <wkmania1@gmail.com>
+To: eam@kaps.co.ke
+Subject: =?iso-8859-1?Q?Assembly_task_assignment?=
+Reply-To: "wkmania1@gmail.com" <wkmania1@gmail.com>
+X-Sender: wkmania1@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: <572695d4339be@gmail.com>
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="B_ALT_572695d4339fc"
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_572695d4339fc
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+KAPS VulcanHello Equipment Assembler, You have an equipment assembly
+management task assigned to you by Equipment Assembler for Equipment
+TEST_EQ_NO_2. You will be expected to perform and report on progress of task
+within the stipulated duration For more details please log on to your KAPS
+Vulcan portalKAPS Vulcan DisclamerThis email message and any file(s)
+transmitted with it is intended solely for the individual or entity to whom
+it is addressed and may contain confidential and/or legally privileged
+information which confidentiality and/or privilege is not lost or waived by
+reason of mistaken transmission . If you have received this message by error
+you are not authorized to view disseminate distribute or copy the message
+without the written consent of KAPS and are requested to contact the sender
+by telephone or e-mail and destroy the original. AlthoughKAPStakes all
+reasonable precautions to ensure that this message and any file transmitted
+with it is virus free, KAPS accepts no liability for any damage that may be
+caused by any virus transmitted by this email.
+
+
+--B_ALT_572695d4339fc
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<h2 style=3D"text-align: center; color: #ff6601">KAPS Vulcan</h2>Hello <b>E=
+quipment Assembler, </b><br/>You have an equipment assembly management task=
+ assigned to you by Equipment Assembler for Equipment TEST_EQ_NO_2. <br/>Yo=
+u will be expected to perform and report on progress of task within the sti=
+pulated duration<p> For more details please log on to your <a href =3D"http=
+://localhost/vulcan/index.php"> KAPS Vulcan </a> portal</p><p>KAPS Vulcan</=
+p><div style =3D "font-style:italic; color:#607D8B; border-top:2px dashed;"=
+><h4> Disclamer</h4><p>This email message and any file(s) transmitted with =
+it is intended solely for the individual or entity to whom it is addressed =
+and may contain confidential and/or legally privileged information which co=
+nfidentiality and/or privilege is not lost or waived by reason of mistaken =
+transmission . If you have received this message by error you are not autho=
+rized to view disseminate distribute or copy the message without the writte=
+n consent of KAPS and are requested to contact the sender by telephone or e=
+-mail and destroy the original. AlthoughKAPStakes all reasonable precaution=
+s to ensure that this message and any file transmitted with it is virus fre=
+e, KAPS accepts no liability for any damage that may be caused by any virus=
+ transmitted by this email.</p></div>
+
+--B_ALT_572695d4339fc--<br />Unable to send data: .<br /><br />The following SMTP error was encountered: <br />Unable to send email using PHP SMTP.  Your server might not be configured to send mail using this method.<br /><pre>User-Agent: CodeIgniter
+Date: Mon, 2 May 2016 02:48:36 +0300
+From: &quot;KAPS Vulcan&quot; &lt;wkmania1@gmail.com&gt;
+Return-Path: &lt;wkmania1@gmail.com&gt;
+To: eam@kaps.co.ke
+Subject: =?iso-8859-1?Q?Assembly_task_assignment?=
+Reply-To: &quot;wkmania1@gmail.com&quot; &lt;wkmania1@gmail.com&gt;
+X-Sender: wkmania1@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;572695d4339be@gmail.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_572695d4339fc&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_572695d4339fc
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+KAPS VulcanHello Equipment Assembler, You have an equipment assembly
+management task assigned to you by Equipment Assembler for Equipment
+TEST_EQ_NO_2. You will be expected to perform and report on progress of task
+within the stipulated duration For more details please log on to your KAPS
+Vulcan portalKAPS Vulcan DisclamerThis email message and any file(s)
+transmitted with it is intended solely for the individual or entity to whom
+it is addressed and may contain confidential and/or legally privileged
+information which confidentiality and/or privilege is not lost or waived by
+reason of mistaken transmission . If you have received this message by error
+you are not authorized to view disseminate distribute or copy the message
+without the written consent of KAPS and are requested to contact the sender
+by telephone or e-mail and destroy the original. AlthoughKAPStakes all
+reasonable precautions to ensure that this message and any file transmitted
+with it is virus free, KAPS accepts no liability for any damage that may be
+caused by any virus transmitted by this email.
+
+
+--B_ALT_572695d4339fc
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+&lt;h2 style=3D&quot;text-align: center; color: #ff6601&quot;&gt;KAPS Vulcan&lt;/h2&gt;Hello &lt;b&gt;E=
+quipment Assembler, &lt;/b&gt;&lt;br/&gt;You have an equipment assembly management task=
+ assigned to you by Equipment Assembler for Equipment TEST_EQ_NO_2. &lt;br/&gt;Yo=
+u will be expected to perform and report on progress of task within the sti=
+pulated duration&lt;p&gt; For more details please log on to your &lt;a href =3D&quot;http=
+://localhost/vulcan/index.php&quot;&gt; KAPS Vulcan &lt;/a&gt; portal&lt;/p&gt;&lt;p&gt;KAPS Vulcan&lt;/=
+p&gt;&lt;div style =3D &quot;font-style:italic; color:#607D8B; border-top:2px dashed;&quot;=
+&gt;&lt;h4&gt; Disclamer&lt;/h4&gt;&lt;p&gt;This email message and any file(s) transmitted with =
+it is intended solely for the individual or entity to whom it is addressed =
+and may contain confidential and/or legally privileged information which co=
+nfidentiality and/or privilege is not lost or waived by reason of mistaken =
+transmission . If you have received this message by error you are not autho=
+rized to view disseminate distribute or copy the message without the writte=
+n consent of KAPS and are requested to contact the sender by telephone or e=
+-mail and destroy the original. AlthoughKAPStakes all reasonable precaution=
+s to ensure that this message and any file transmitted with it is virus fre=
+e, KAPS accepts no liability for any damage that may be caused by any virus=
+ transmitted by this email.&lt;/p&gt;&lt;/div&gt;
+
+--B_ALT_572695d4339fc--</pre>%
+2016-05-02 02:51:14|::1|Failed to send email to eam@kaps.co.keERROR:: The following SMTP error was encountered: 0 <br />Unable to send data: AUTH LOGIN<br />Failed to send AUTH LOGIN command. Error: <br />Unable to send data: MAIL FROM:<wkmania1@gmail.com><br /><pre>from: </pre>The following SMTP error was encountered: <br />Unable to send data: RCPT TO:<eam@kaps.co.ke><br /><pre>to: </pre>The following SMTP error was encountered: <br />Unable to send data: DATA<br /><pre>data: </pre>The following SMTP error was encountered: <br />Unable to send data: User-Agent: CodeIgniter
+Date: Mon, 2 May 2016 02:51:08 +0300
+From: "KAPS Vulcan" <wkmania1@gmail.com>
+Return-Path: <wkmania1@gmail.com>
+To: eam@kaps.co.ke
+Subject: =?iso-8859-1?Q?Assembly_task_assignment?=
+Reply-To: "wkmania1@gmail.com" <wkmania1@gmail.com>
+X-Sender: wkmania1@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: <5726966c9a6ee@gmail.com>
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="B_ALT_5726966c9a72c"
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_5726966c9a72c
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+KAPS VulcanHello Equipment Assembler, You have an equipment assembly
+management task assigned to you by Equipment Assembler for Equipment
+TEST_EQ_NO_2. You will be expected to perform and report on progress of task
+within the stipulated duration For more details please log on to your KAPS
+Vulcan portalKAPS Vulcan DisclamerThis email message and any file(s)
+transmitted with it is intended solely for the individual or entity to whom
+it is addressed and may contain confidential and/or legally privileged
+information which confidentiality and/or privilege is not lost or waived by
+reason of mistaken transmission . If you have received this message by error
+you are not authorized to view disseminate distribute or copy the message
+without the written consent of KAPS and are requested to contact the sender
+by telephone or e-mail and destroy the original. AlthoughKAPStakes all
+reasonable precautions to ensure that this message and any file transmitted
+with it is virus free, KAPS accepts no liability for any damage that may be
+caused by any virus transmitted by this email.
+
+
+--B_ALT_5726966c9a72c
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<h2 style=3D"text-align: center; color: #ff6601">KAPS Vulcan</h2>Hello <b>E=
+quipment Assembler, </b><br/>You have an equipment assembly management task=
+ assigned to you by Equipment Assembler for Equipment TEST_EQ_NO_2. <br/>Yo=
+u will be expected to perform and report on progress of task within the sti=
+pulated duration<p> For more details please log on to your <a href =3D"http=
+://localhost/vulcan/index.php"> KAPS Vulcan </a> portal</p><p>KAPS Vulcan</=
+p><div style =3D "font-style:italic; color:#607D8B; border-top:2px dashed;"=
+><h4> Disclamer</h4><p>This email message and any file(s) transmitted with =
+it is intended solely for the individual or entity to whom it is addressed =
+and may contain confidential and/or legally privileged information which co=
+nfidentiality and/or privilege is not lost or waived by reason of mistaken =
+transmission . If you have received this message by error you are not autho=
+rized to view disseminate distribute or copy the message without the writte=
+n consent of KAPS and are requested to contact the sender by telephone or e=
+-mail and destroy the original. AlthoughKAPStakes all reasonable precaution=
+s to ensure that this message and any file transmitted with it is virus fre=
+e, KAPS accepts no liability for any damage that may be caused by any virus=
+ transmitted by this email.</p></div>
+
+--B_ALT_5726966c9a72c--<br />Unable to send data: .<br /><br />The following SMTP error was encountered: <br />Unable to send email using PHP SMTP.  Your server might not be configured to send mail using this method.<br /><pre>User-Agent: CodeIgniter
+Date: Mon, 2 May 2016 02:51:08 +0300
+From: &quot;KAPS Vulcan&quot; &lt;wkmania1@gmail.com&gt;
+Return-Path: &lt;wkmania1@gmail.com&gt;
+To: eam@kaps.co.ke
+Subject: =?iso-8859-1?Q?Assembly_task_assignment?=
+Reply-To: &quot;wkmania1@gmail.com&quot; &lt;wkmania1@gmail.com&gt;
+X-Sender: wkmania1@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;5726966c9a6ee@gmail.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_5726966c9a72c&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_5726966c9a72c
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+KAPS VulcanHello Equipment Assembler, You have an equipment assembly
+management task assigned to you by Equipment Assembler for Equipment
+TEST_EQ_NO_2. You will be expected to perform and report on progress of task
+within the stipulated duration For more details please log on to your KAPS
+Vulcan portalKAPS Vulcan DisclamerThis email message and any file(s)
+transmitted with it is intended solely for the individual or entity to whom
+it is addressed and may contain confidential and/or legally privileged
+information which confidentiality and/or privilege is not lost or waived by
+reason of mistaken transmission . If you have received this message by error
+you are not authorized to view disseminate distribute or copy the message
+without the written consent of KAPS and are requested to contact the sender
+by telephone or e-mail and destroy the original. AlthoughKAPStakes all
+reasonable precautions to ensure that this message and any file transmitted
+with it is virus free, KAPS accepts no liability for any damage that may be
+caused by any virus transmitted by this email.
+
+
+--B_ALT_5726966c9a72c
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+&lt;h2 style=3D&quot;text-align: center; color: #ff6601&quot;&gt;KAPS Vulcan&lt;/h2&gt;Hello &lt;b&gt;E=
+quipment Assembler, &lt;/b&gt;&lt;br/&gt;You have an equipment assembly management task=
+ assigned to you by Equipment Assembler for Equipment TEST_EQ_NO_2. &lt;br/&gt;Yo=
+u will be expected to perform and report on progress of task within the sti=
+pulated duration&lt;p&gt; For more details please log on to your &lt;a href =3D&quot;http=
+://localhost/vulcan/index.php&quot;&gt; KAPS Vulcan &lt;/a&gt; portal&lt;/p&gt;&lt;p&gt;KAPS Vulcan&lt;/=
+p&gt;&lt;div style =3D &quot;font-style:italic; color:#607D8B; border-top:2px dashed;&quot;=
+&gt;&lt;h4&gt; Disclamer&lt;/h4&gt;&lt;p&gt;This email message and any file(s) transmitted with =
+it is intended solely for the individual or entity to whom it is addressed =
+and may contain confidential and/or legally privileged information which co=
+nfidentiality and/or privilege is not lost or waived by reason of mistaken =
+transmission . If you have received this message by error you are not autho=
+rized to view disseminate distribute or copy the message without the writte=
+n consent of KAPS and are requested to contact the sender by telephone or e=
+-mail and destroy the original. AlthoughKAPStakes all reasonable precaution=
+s to ensure that this message and any file transmitted with it is virus fre=
+e, KAPS accepts no liability for any damage that may be caused by any virus=
+ transmitted by this email.&lt;/p&gt;&lt;/div&gt;
+
+--B_ALT_5726966c9a72c--</pre>%
+2016-05-02 02:52:27|::1|Failed to send email to eam@kaps.co.keERROR:: The following SMTP error was encountered: 0 <br />Unable to send data: AUTH LOGIN<br />Failed to send AUTH LOGIN command. Error: <br />Unable to send data: MAIL FROM:<wkmania1@gmail.com><br /><pre>from: </pre>The following SMTP error was encountered: <br />Unable to send data: RCPT TO:<eam@kaps.co.ke><br /><pre>to: </pre>The following SMTP error was encountered: <br />Unable to send data: DATA<br /><pre>data: </pre>The following SMTP error was encountered: <br />Unable to send data: User-Agent: CodeIgniter
+Date: Mon, 2 May 2016 02:52:21 +0300
+From: "KAPS Vulcan" <wkmania1@gmail.com>
+Return-Path: <wkmania1@gmail.com>
+To: eam@kaps.co.ke
+Subject: =?iso-8859-1?Q?Assembly_task_assignment?=
+Reply-To: "wkmania1@gmail.com" <wkmania1@gmail.com>
+X-Sender: wkmania1@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: <572696b5da5f8@gmail.com>
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="B_ALT_572696b5da627"
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_572696b5da627
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+KAPS VulcanHello Equipment Assembler, You have an equipment assembly
+management task assigned to you by Equipment Assembler for Equipment
+TEST_EQ_NO_2. You will be expected to perform and report on progress of task
+within the stipulated duration For more details please log on to your KAPS
+Vulcan portalKAPS Vulcan DisclamerThis email message and any file(s)
+transmitted with it is intended solely for the individual or entity to whom
+it is addressed and may contain confidential and/or legally privileged
+information which confidentiality and/or privilege is not lost or waived by
+reason of mistaken transmission . If you have received this message by error
+you are not authorized to view disseminate distribute or copy the message
+without the written consent of KAPS and are requested to contact the sender
+by telephone or e-mail and destroy the original. AlthoughKAPStakes all
+reasonable precautions to ensure that this message and any file transmitted
+with it is virus free, KAPS accepts no liability for any damage that may be
+caused by any virus transmitted by this email.
+
+
+--B_ALT_572696b5da627
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<h2 style=3D"text-align: center; color: #ff6601">KAPS Vulcan</h2>Hello <b>E=
+quipment Assembler, </b><br/>You have an equipment assembly management task=
+ assigned to you by Equipment Assembler for Equipment TEST_EQ_NO_2. <br/>Yo=
+u will be expected to perform and report on progress of task within the sti=
+pulated duration<p> For more details please log on to your <a href =3D"http=
+://localhost/vulcan/index.php"> KAPS Vulcan </a> portal</p><p>KAPS Vulcan</=
+p><div style =3D "font-style:italic; color:#607D8B; border-top:2px dashed;"=
+><h4> Disclamer</h4><p>This email message and any file(s) transmitted with =
+it is intended solely for the individual or entity to whom it is addressed =
+and may contain confidential and/or legally privileged information which co=
+nfidentiality and/or privilege is not lost or waived by reason of mistaken =
+transmission . If you have received this message by error you are not autho=
+rized to view disseminate distribute or copy the message without the writte=
+n consent of KAPS and are requested to contact the sender by telephone or e=
+-mail and destroy the original. AlthoughKAPStakes all reasonable precaution=
+s to ensure that this message and any file transmitted with it is virus fre=
+e, KAPS accepts no liability for any damage that may be caused by any virus=
+ transmitted by this email.</p></div>
+
+--B_ALT_572696b5da627--<br />Unable to send data: .<br /><br />The following SMTP error was encountered: <br />Unable to send email using PHP SMTP.  Your server might not be configured to send mail using this method.<br /><pre>User-Agent: CodeIgniter
+Date: Mon, 2 May 2016 02:52:21 +0300
+From: &quot;KAPS Vulcan&quot; &lt;wkmania1@gmail.com&gt;
+Return-Path: &lt;wkmania1@gmail.com&gt;
+To: eam@kaps.co.ke
+Subject: =?iso-8859-1?Q?Assembly_task_assignment?=
+Reply-To: &quot;wkmania1@gmail.com&quot; &lt;wkmania1@gmail.com&gt;
+X-Sender: wkmania1@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;572696b5da5f8@gmail.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_572696b5da627&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_572696b5da627
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+KAPS VulcanHello Equipment Assembler, You have an equipment assembly
+management task assigned to you by Equipment Assembler for Equipment
+TEST_EQ_NO_2. You will be expected to perform and report on progress of task
+within the stipulated duration For more details please log on to your KAPS
+Vulcan portalKAPS Vulcan DisclamerThis email message and any file(s)
+transmitted with it is intended solely for the individual or entity to whom
+it is addressed and may contain confidential and/or legally privileged
+information which confidentiality and/or privilege is not lost or waived by
+reason of mistaken transmission . If you have received this message by error
+you are not authorized to view disseminate distribute or copy the message
+without the written consent of KAPS and are requested to contact the sender
+by telephone or e-mail and destroy the original. AlthoughKAPStakes all
+reasonable precautions to ensure that this message and any file transmitted
+with it is virus free, KAPS accepts no liability for any damage that may be
+caused by any virus transmitted by this email.
+
+
+--B_ALT_572696b5da627
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+&lt;h2 style=3D&quot;text-align: center; color: #ff6601&quot;&gt;KAPS Vulcan&lt;/h2&gt;Hello &lt;b&gt;E=
+quipment Assembler, &lt;/b&gt;&lt;br/&gt;You have an equipment assembly management task=
+ assigned to you by Equipment Assembler for Equipment TEST_EQ_NO_2. &lt;br/&gt;Yo=
+u will be expected to perform and report on progress of task within the sti=
+pulated duration&lt;p&gt; For more details please log on to your &lt;a href =3D&quot;http=
+://localhost/vulcan/index.php&quot;&gt; KAPS Vulcan &lt;/a&gt; portal&lt;/p&gt;&lt;p&gt;KAPS Vulcan&lt;/=
+p&gt;&lt;div style =3D &quot;font-style:italic; color:#607D8B; border-top:2px dashed;&quot;=
+&gt;&lt;h4&gt; Disclamer&lt;/h4&gt;&lt;p&gt;This email message and any file(s) transmitted with =
+it is intended solely for the individual or entity to whom it is addressed =
+and may contain confidential and/or legally privileged information which co=
+nfidentiality and/or privilege is not lost or waived by reason of mistaken =
+transmission . If you have received this message by error you are not autho=
+rized to view disseminate distribute or copy the message without the writte=
+n consent of KAPS and are requested to contact the sender by telephone or e=
+-mail and destroy the original. AlthoughKAPStakes all reasonable precaution=
+s to ensure that this message and any file transmitted with it is virus fre=
+e, KAPS accepts no liability for any damage that may be caused by any virus=
+ transmitted by this email.&lt;/p&gt;&lt;/div&gt;
+
+--B_ALT_572696b5da627--</pre>%
+2016-05-02 11:36:03|::1|Failed to send email to eam@kaps.co.keERROR:: The following SMTP error was encountered: 0 php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution<br />Unable to send data: AUTH LOGIN<br />Failed to send AUTH LOGIN command. Error: <br />Unable to send data: MAIL FROM:<wkmania1@gmail.com><br /><pre>from: </pre>The following SMTP error was encountered: <br />Unable to send data: RCPT TO:<eam@kaps.co.ke><br /><pre>to: </pre>The following SMTP error was encountered: <br />Unable to send data: DATA<br /><pre>data: </pre>The following SMTP error was encountered: <br />Unable to send data: User-Agent: CodeIgniter
+Date: Mon, 2 May 2016 11:36:03 +0300
+From: "KAPS Vulcan" <wkmania1@gmail.com>
+Return-Path: <wkmania1@gmail.com>
+To: eam@kaps.co.ke
+Subject: =?iso-8859-1?Q?Assembly_task_assignment?=
+Reply-To: "wkmania1@gmail.com" <wkmania1@gmail.com>
+X-Sender: wkmania1@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: <572711734164e@gmail.com>
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="B_ALT_572711734168b"
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_572711734168b
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+KAPS VulcanHello Equipment Assembler, You have an equipment assembly
+management task assigned to you by Equipment Assembler for Equipment
+TEST_EQ_NO_1. You will be expected to perform and report on progress of task
+within the stipulated duration For more details please log on to your KAPS
+Vulcan portalKAPS Vulcan DisclamerThis email message and any file(s)
+transmitted with it is intended solely for the individual or entity to whom
+it is addressed and may contain confidential and/or legally privileged
+information which confidentiality and/or privilege is not lost or waived by
+reason of mistaken transmission . If you have received this message by error
+you are not authorized to view disseminate distribute or copy the message
+without the written consent of KAPS and are requested to contact the sender
+by telephone or e-mail and destroy the original. AlthoughKAPStakes all
+reasonable precautions to ensure that this message and any file transmitted
+with it is virus free, KAPS accepts no liability for any damage that may be
+caused by any virus transmitted by this email.
+
+
+--B_ALT_572711734168b
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<h2 style=3D"text-align: center; color: #ff6601">KAPS Vulcan</h2>Hello <b>E=
+quipment Assembler, </b><br/>You have an equipment assembly management task=
+ assigned to you by Equipment Assembler for Equipment TEST_EQ_NO_1. <br/>Yo=
+u will be expected to perform and report on progress of task within the sti=
+pulated duration<p> For more details please log on to your <a href =3D"http=
+://localhost/vulcan/index.php"> KAPS Vulcan </a> portal</p><p>KAPS Vulcan</=
+p><div style =3D "font-style:italic; color:#607D8B; border-top:2px dashed;"=
+><h4> Disclamer</h4><p>This email message and any file(s) transmitted with =
+it is intended solely for the individual or entity to whom it is addressed =
+and may contain confidential and/or legally privileged information which co=
+nfidentiality and/or privilege is not lost or waived by reason of mistaken =
+transmission . If you have received this message by error you are not autho=
+rized to view disseminate distribute or copy the message without the writte=
+n consent of KAPS and are requested to contact the sender by telephone or e=
+-mail and destroy the original. AlthoughKAPStakes all reasonable precaution=
+s to ensure that this message and any file transmitted with it is virus fre=
+e, KAPS accepts no liability for any damage that may be caused by any virus=
+ transmitted by this email.</p></div>
+
+--B_ALT_572711734168b--<br />Unable to send data: .<br /><br />The following SMTP error was encountered: <br />Unable to send email using PHP SMTP.  Your server might not be configured to send mail using this method.<br /><pre>User-Agent: CodeIgniter
+Date: Mon, 2 May 2016 11:36:03 +0300
+From: &quot;KAPS Vulcan&quot; &lt;wkmania1@gmail.com&gt;
+Return-Path: &lt;wkmania1@gmail.com&gt;
+To: eam@kaps.co.ke
+Subject: =?iso-8859-1?Q?Assembly_task_assignment?=
+Reply-To: &quot;wkmania1@gmail.com&quot; &lt;wkmania1@gmail.com&gt;
+X-Sender: wkmania1@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;572711734164e@gmail.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_572711734168b&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_572711734168b
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+KAPS VulcanHello Equipment Assembler, You have an equipment assembly
+management task assigned to you by Equipment Assembler for Equipment
+TEST_EQ_NO_1. You will be expected to perform and report on progress of task
+within the stipulated duration For more details please log on to your KAPS
+Vulcan portalKAPS Vulcan DisclamerThis email message and any file(s)
+transmitted with it is intended solely for the individual or entity to whom
+it is addressed and may contain confidential and/or legally privileged
+information which confidentiality and/or privilege is not lost or waived by
+reason of mistaken transmission . If you have received this message by error
+you are not authorized to view disseminate distribute or copy the message
+without the written consent of KAPS and are requested to contact the sender
+by telephone or e-mail and destroy the original. AlthoughKAPStakes all
+reasonable precautions to ensure that this message and any file transmitted
+with it is virus free, KAPS accepts no liability for any damage that may be
+caused by any virus transmitted by this email.
+
+
+--B_ALT_572711734168b
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+&lt;h2 style=3D&quot;text-align: center; color: #ff6601&quot;&gt;KAPS Vulcan&lt;/h2&gt;Hello &lt;b&gt;E=
+quipment Assembler, &lt;/b&gt;&lt;br/&gt;You have an equipment assembly management task=
+ assigned to you by Equipment Assembler for Equipment TEST_EQ_NO_1. &lt;br/&gt;Yo=
+u will be expected to perform and report on progress of task within the sti=
+pulated duration&lt;p&gt; For more details please log on to your &lt;a href =3D&quot;http=
+://localhost/vulcan/index.php&quot;&gt; KAPS Vulcan &lt;/a&gt; portal&lt;/p&gt;&lt;p&gt;KAPS Vulcan&lt;/=
+p&gt;&lt;div style =3D &quot;font-style:italic; color:#607D8B; border-top:2px dashed;&quot;=
+&gt;&lt;h4&gt; Disclamer&lt;/h4&gt;&lt;p&gt;This email message and any file(s) transmitted with =
+it is intended solely for the individual or entity to whom it is addressed =
+and may contain confidential and/or legally privileged information which co=
+nfidentiality and/or privilege is not lost or waived by reason of mistaken =
+transmission . If you have received this message by error you are not autho=
+rized to view disseminate distribute or copy the message without the writte=
+n consent of KAPS and are requested to contact the sender by telephone or e=
+-mail and destroy the original. AlthoughKAPStakes all reasonable precaution=
+s to ensure that this message and any file transmitted with it is virus fre=
+e, KAPS accepts no liability for any damage that may be caused by any virus=
+ transmitted by this email.&lt;/p&gt;&lt;/div&gt;
+
+--B_ALT_572711734168b--</pre>%
+2016-05-02 11:40:32|::1|Failed to send email to eam@kaps.co.keERROR:: The following SMTP error was encountered: 0 php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution<br />Unable to send data: AUTH LOGIN<br />Failed to send AUTH LOGIN command. Error: <br />Unable to send data: MAIL FROM:<wkmania1@gmail.com><br /><pre>from: </pre>The following SMTP error was encountered: <br />Unable to send data: RCPT TO:<eam@kaps.co.ke><br /><pre>to: </pre>The following SMTP error was encountered: <br />Unable to send data: DATA<br /><pre>data: </pre>The following SMTP error was encountered: <br />Unable to send data: User-Agent: CodeIgniter
+Date: Mon, 2 May 2016 11:40:32 +0300
+From: "KAPS Vulcan" <wkmania1@gmail.com>
+Return-Path: <wkmania1@gmail.com>
+To: eam@kaps.co.ke
+Subject: =?iso-8859-1?Q?Assembly_task_assignment?=
+Reply-To: "wkmania1@gmail.com" <wkmania1@gmail.com>
+X-Sender: wkmania1@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: <57271280cf377@gmail.com>
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="B_ALT_57271280cf3b4"
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_57271280cf3b4
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+KAPS VulcanHello Equipment Assembler, You have an equipment assembly
+management task assigned to you by Equipment Assembler for Equipment
+TEST_EQ_NO_1. You will be expected to perform and report on progress of task
+within the stipulated duration For more details please log on to your KAPS
+Vulcan portalKAPS Vulcan DisclamerThis email message and any file(s)
+transmitted with it is intended solely for the individual or entity to whom
+it is addressed and may contain confidential and/or legally privileged
+information which confidentiality and/or privilege is not lost or waived by
+reason of mistaken transmission . If you have received this message by error
+you are not authorized to view disseminate distribute or copy the message
+without the written consent of KAPS and are requested to contact the sender
+by telephone or e-mail and destroy the original. AlthoughKAPStakes all
+reasonable precautions to ensure that this message and any file transmitted
+with it is virus free, KAPS accepts no liability for any damage that may be
+caused by any virus transmitted by this email.
+
+
+--B_ALT_57271280cf3b4
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<h2 style=3D"text-align: center; color: #ff6601">KAPS Vulcan</h2>Hello <b>E=
+quipment Assembler, </b><br/>You have an equipment assembly management task=
+ assigned to you by Equipment Assembler for Equipment TEST_EQ_NO_1. <br/>Yo=
+u will be expected to perform and report on progress of task within the sti=
+pulated duration<p> For more details please log on to your <a href =3D"http=
+://localhost/vulcan/index.php"> KAPS Vulcan </a> portal</p><p>KAPS Vulcan</=
+p><div style =3D "font-style:italic; color:#607D8B; border-top:2px dashed;"=
+><h4> Disclamer</h4><p>This email message and any file(s) transmitted with =
+it is intended solely for the individual or entity to whom it is addressed =
+and may contain confidential and/or legally privileged information which co=
+nfidentiality and/or privilege is not lost or waived by reason of mistaken =
+transmission . If you have received this message by error you are not autho=
+rized to view disseminate distribute or copy the message without the writte=
+n consent of KAPS and are requested to contact the sender by telephone or e=
+-mail and destroy the original. AlthoughKAPStakes all reasonable precaution=
+s to ensure that this message and any file transmitted with it is virus fre=
+e, KAPS accepts no liability for any damage that may be caused by any virus=
+ transmitted by this email.</p></div>
+
+--B_ALT_57271280cf3b4--<br />Unable to send data: .<br /><br />The following SMTP error was encountered: <br />Unable to send email using PHP SMTP.  Your server might not be configured to send mail using this method.<br /><pre>User-Agent: CodeIgniter
+Date: Mon, 2 May 2016 11:40:32 +0300
+From: &quot;KAPS Vulcan&quot; &lt;wkmania1@gmail.com&gt;
+Return-Path: &lt;wkmania1@gmail.com&gt;
+To: eam@kaps.co.ke
+Subject: =?iso-8859-1?Q?Assembly_task_assignment?=
+Reply-To: &quot;wkmania1@gmail.com&quot; &lt;wkmania1@gmail.com&gt;
+X-Sender: wkmania1@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;57271280cf377@gmail.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_57271280cf3b4&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_57271280cf3b4
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+KAPS VulcanHello Equipment Assembler, You have an equipment assembly
+management task assigned to you by Equipment Assembler for Equipment
+TEST_EQ_NO_1. You will be expected to perform and report on progress of task
+within the stipulated duration For more details please log on to your KAPS
+Vulcan portalKAPS Vulcan DisclamerThis email message and any file(s)
+transmitted with it is intended solely for the individual or entity to whom
+it is addressed and may contain confidential and/or legally privileged
+information which confidentiality and/or privilege is not lost or waived by
+reason of mistaken transmission . If you have received this message by error
+you are not authorized to view disseminate distribute or copy the message
+without the written consent of KAPS and are requested to contact the sender
+by telephone or e-mail and destroy the original. AlthoughKAPStakes all
+reasonable precautions to ensure that this message and any file transmitted
+with it is virus free, KAPS accepts no liability for any damage that may be
+caused by any virus transmitted by this email.
+
+
+--B_ALT_57271280cf3b4
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+&lt;h2 style=3D&quot;text-align: center; color: #ff6601&quot;&gt;KAPS Vulcan&lt;/h2&gt;Hello &lt;b&gt;E=
+quipment Assembler, &lt;/b&gt;&lt;br/&gt;You have an equipment assembly management task=
+ assigned to you by Equipment Assembler for Equipment TEST_EQ_NO_1. &lt;br/&gt;Yo=
+u will be expected to perform and report on progress of task within the sti=
+pulated duration&lt;p&gt; For more details please log on to your &lt;a href =3D&quot;http=
+://localhost/vulcan/index.php&quot;&gt; KAPS Vulcan &lt;/a&gt; portal&lt;/p&gt;&lt;p&gt;KAPS Vulcan&lt;/=
+p&gt;&lt;div style =3D &quot;font-style:italic; color:#607D8B; border-top:2px dashed;&quot;=
+&gt;&lt;h4&gt; Disclamer&lt;/h4&gt;&lt;p&gt;This email message and any file(s) transmitted with =
+it is intended solely for the individual or entity to whom it is addressed =
+and may contain confidential and/or legally privileged information which co=
+nfidentiality and/or privilege is not lost or waived by reason of mistaken =
+transmission . If you have received this message by error you are not autho=
+rized to view disseminate distribute or copy the message without the writte=
+n consent of KAPS and are requested to contact the sender by telephone or e=
+-mail and destroy the original. AlthoughKAPStakes all reasonable precaution=
+s to ensure that this message and any file transmitted with it is virus fre=
+e, KAPS accepts no liability for any damage that may be caused by any virus=
+ transmitted by this email.&lt;/p&gt;&lt;/div&gt;
+
+--B_ALT_57271280cf3b4--</pre>%
+2016-05-04 05:46:46|::1|Failed to send email to at@kaps.co.keERROR:: The following SMTP error was encountered: 0 php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution<br />Unable to send data: AUTH LOGIN<br />Failed to send AUTH LOGIN command. Error: <br />Unable to send data: MAIL FROM:<wkmania1@gmail.com><br /><pre>from: </pre>The following SMTP error was encountered: <br />Unable to send data: RCPT TO:<at@kaps.co.ke><br /><pre>to: </pre>The following SMTP error was encountered: <br />Unable to send data: DATA<br /><pre>data: </pre>The following SMTP error was encountered: <br />Unable to send data: User-Agent: CodeIgniter
+Date: Wed, 4 May 2016 05:46:46 +0300
+From: "KAPS Vulcan" <wkmania1@gmail.com>
+Return-Path: <wkmania1@gmail.com>
+To: at@kaps.co.ke
+Subject: =?iso-8859-1?Q?Assembly_task_assignment?=
+Reply-To: "wkmania1@gmail.com" <wkmania1@gmail.com>
+X-Sender: wkmania1@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: <572962966bd19@gmail.com>
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="B_ALT_572962966bd57"
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_572962966bd57
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+KAPS VulcanHello Assembly Tester, You have an equipment assembly management
+task assigned to you by Assembly Tester for Equipment TEST_EQ_NO_2. You will
+be expected to perform and report on progress of task within the stipulated
+duration For more details please log on to your KAPS Vulcan portalKAPS
+Vulcan DisclamerThis email message and any file(s) transmitted with it is
+intended solely for the individual or entity to whom it is addressed and may
+contain confidential and/or legally privileged information which
+confidentiality and/or privilege is not lost or waived by reason of mistaken
+transmission . If you have received this message by error you are not
+authorized to view disseminate distribute or copy the message without the
+written consent of KAPS and are requested to contact the sender by telephone
+or e-mail and destroy the original. AlthoughKAPStakes all reasonable
+precautions to ensure that this message and any file transmitted with it is
+virus free, KAPS accepts no liability for any damage that may be caused by
+any virus transmitted by this email.
+
+
+--B_ALT_572962966bd57
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<h2 style=3D"text-align: center; color: #ff6601">KAPS Vulcan</h2>Hello <b>A=
+ssembly Tester, </b><br/>You have an equipment assembly management task ass=
+igned to you by Assembly Tester for Equipment TEST_EQ_NO_2. <br/>You will b=
+e expected to perform and report on progress of task within the stipulated =
+duration<p> For more details please log on to your <a href =3D"http://local=
+host/vulcan/index.php"> KAPS Vulcan </a> portal</p><p>KAPS Vulcan</p><div s=
+tyle =3D "font-style:italic; color:#607D8B; border-top:2px dashed;"><h4> Di=
+sclamer</h4><p>This email message and any file(s) transmitted with it is in=
+tended solely for the individual or entity to whom it is addressed and may =
+contain confidential and/or legally privileged information which confidenti=
+ality and/or privilege is not lost or waived by reason of mistaken transmis=
+sion . If you have received this message by error you are not authorized to=
+ view disseminate distribute or copy the message without the written consen=
+t of KAPS and are requested to contact the sender by telephone or e-mail an=
+d destroy the original. AlthoughKAPStakes all reasonable precautions to ens=
+ure that this message and any file transmitted with it is virus free, KAPS =
+accepts no liability for any damage that may be caused by any virus transmi=
+tted by this email.</p></div>
+
+--B_ALT_572962966bd57--<br />Unable to send data: .<br /><br />The following SMTP error was encountered: <br />Unable to send email using PHP SMTP.  Your server might not be configured to send mail using this method.<br /><pre>User-Agent: CodeIgniter
+Date: Wed, 4 May 2016 05:46:46 +0300
+From: &quot;KAPS Vulcan&quot; &lt;wkmania1@gmail.com&gt;
+Return-Path: &lt;wkmania1@gmail.com&gt;
+To: at@kaps.co.ke
+Subject: =?iso-8859-1?Q?Assembly_task_assignment?=
+Reply-To: &quot;wkmania1@gmail.com&quot; &lt;wkmania1@gmail.com&gt;
+X-Sender: wkmania1@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;572962966bd19@gmail.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_572962966bd57&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_572962966bd57
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+KAPS VulcanHello Assembly Tester, You have an equipment assembly management
+task assigned to you by Assembly Tester for Equipment TEST_EQ_NO_2. You will
+be expected to perform and report on progress of task within the stipulated
+duration For more details please log on to your KAPS Vulcan portalKAPS
+Vulcan DisclamerThis email message and any file(s) transmitted with it is
+intended solely for the individual or entity to whom it is addressed and may
+contain confidential and/or legally privileged information which
+confidentiality and/or privilege is not lost or waived by reason of mistaken
+transmission . If you have received this message by error you are not
+authorized to view disseminate distribute or copy the message without the
+written consent of KAPS and are requested to contact the sender by telephone
+or e-mail and destroy the original. AlthoughKAPStakes all reasonable
+precautions to ensure that this message and any file transmitted with it is
+virus free, KAPS accepts no liability for any damage that may be caused by
+any virus transmitted by this email.
+
+
+--B_ALT_572962966bd57
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+&lt;h2 style=3D&quot;text-align: center; color: #ff6601&quot;&gt;KAPS Vulcan&lt;/h2&gt;Hello &lt;b&gt;A=
+ssembly Tester, &lt;/b&gt;&lt;br/&gt;You have an equipment assembly management task ass=
+igned to you by Assembly Tester for Equipment TEST_EQ_NO_2. &lt;br/&gt;You will b=
+e expected to perform and report on progress of task within the stipulated =
+duration&lt;p&gt; For more details please log on to your &lt;a href =3D&quot;http://local=
+host/vulcan/index.php&quot;&gt; KAPS Vulcan &lt;/a&gt; portal&lt;/p&gt;&lt;p&gt;KAPS Vulcan&lt;/p&gt;&lt;div s=
+tyle =3D &quot;font-style:italic; color:#607D8B; border-top:2px dashed;&quot;&gt;&lt;h4&gt; Di=
+sclamer&lt;/h4&gt;&lt;p&gt;This email message and any file(s) transmitted with it is in=
+tended solely for the individual or entity to whom it is addressed and may =
+contain confidential and/or legally privileged information which confidenti=
+ality and/or privilege is not lost or waived by reason of mistaken transmis=
+sion . If you have received this message by error you are not authorized to=
+ view disseminate distribute or copy the message without the written consen=
+t of KAPS and are requested to contact the sender by telephone or e-mail an=
+d destroy the original. AlthoughKAPStakes all reasonable precautions to ens=
+ure that this message and any file transmitted with it is virus free, KAPS =
+accepts no liability for any damage that may be caused by any virus transmi=
+tted by this email.&lt;/p&gt;&lt;/div&gt;
+
+--B_ALT_572962966bd57--</pre>%
+2016-05-04 06:07:33|::1|Failed to send email to at@kaps.co.keERROR:: The following SMTP error was encountered: 0 php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution<br />Unable to send data: AUTH LOGIN<br />Failed to send AUTH LOGIN command. Error: <br />Unable to send data: MAIL FROM:<wkmania1@gmail.com><br /><pre>from: </pre>The following SMTP error was encountered: <br />Unable to send data: RCPT TO:<at@kaps.co.ke><br /><pre>to: </pre>The following SMTP error was encountered: <br />Unable to send data: DATA<br /><pre>data: </pre>The following SMTP error was encountered: <br />Unable to send data: User-Agent: CodeIgniter
+Date: Wed, 4 May 2016 06:07:33 +0300
+From: "KAPS Vulcan" <wkmania1@gmail.com>
+Return-Path: <wkmania1@gmail.com>
+To: at@kaps.co.ke
+Subject: =?iso-8859-1?Q?Assembly_task_assignment?=
+Reply-To: "wkmania1@gmail.com" <wkmania1@gmail.com>
+X-Sender: wkmania1@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: <5729677575ba7@gmail.com>
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="B_ALT_5729677575be6"
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_5729677575be6
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+KAPS VulcanHello Assembly Tester, You have an equipment assembly management
+task assigned to you by Assembly Tester for Equipment TEST_EQ_NO_1. You will
+be expected to perform and report on progress of task within the stipulated
+duration For more details please log on to your KAPS Vulcan portalKAPS
+Vulcan DisclamerThis email message and any file(s) transmitted with it is
+intended solely for the individual or entity to whom it is addressed and may
+contain confidential and/or legally privileged information which
+confidentiality and/or privilege is not lost or waived by reason of mistaken
+transmission . If you have received this message by error you are not
+authorized to view disseminate distribute or copy the message without the
+written consent of KAPS and are requested to contact the sender by telephone
+or e-mail and destroy the original. AlthoughKAPStakes all reasonable
+precautions to ensure that this message and any file transmitted with it is
+virus free, KAPS accepts no liability for any damage that may be caused by
+any virus transmitted by this email.
+
+
+--B_ALT_5729677575be6
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<h2 style=3D"text-align: center; color: #ff6601">KAPS Vulcan</h2>Hello <b>A=
+ssembly Tester, </b><br/>You have an equipment assembly management task ass=
+igned to you by Assembly Tester for Equipment TEST_EQ_NO_1. <br/>You will b=
+e expected to perform and report on progress of task within the stipulated =
+duration<p> For more details please log on to your <a href =3D"http://local=
+host/vulcan/index.php"> KAPS Vulcan </a> portal</p><p>KAPS Vulcan</p><div s=
+tyle =3D "font-style:italic; color:#607D8B; border-top:2px dashed;"><h4> Di=
+sclamer</h4><p>This email message and any file(s) transmitted with it is in=
+tended solely for the individual or entity to whom it is addressed and may =
+contain confidential and/or legally privileged information which confidenti=
+ality and/or privilege is not lost or waived by reason of mistaken transmis=
+sion . If you have received this message by error you are not authorized to=
+ view disseminate distribute or copy the message without the written consen=
+t of KAPS and are requested to contact the sender by telephone or e-mail an=
+d destroy the original. AlthoughKAPStakes all reasonable precautions to ens=
+ure that this message and any file transmitted with it is virus free, KAPS =
+accepts no liability for any damage that may be caused by any virus transmi=
+tted by this email.</p></div>
+
+--B_ALT_5729677575be6--<br />Unable to send data: .<br /><br />The following SMTP error was encountered: <br />Unable to send email using PHP SMTP.  Your server might not be configured to send mail using this method.<br /><pre>User-Agent: CodeIgniter
+Date: Wed, 4 May 2016 06:07:33 +0300
+From: &quot;KAPS Vulcan&quot; &lt;wkmania1@gmail.com&gt;
+Return-Path: &lt;wkmania1@gmail.com&gt;
+To: at@kaps.co.ke
+Subject: =?iso-8859-1?Q?Assembly_task_assignment?=
+Reply-To: &quot;wkmania1@gmail.com&quot; &lt;wkmania1@gmail.com&gt;
+X-Sender: wkmania1@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;5729677575ba7@gmail.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_5729677575be6&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_5729677575be6
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+KAPS VulcanHello Assembly Tester, You have an equipment assembly management
+task assigned to you by Assembly Tester for Equipment TEST_EQ_NO_1. You will
+be expected to perform and report on progress of task within the stipulated
+duration For more details please log on to your KAPS Vulcan portalKAPS
+Vulcan DisclamerThis email message and any file(s) transmitted with it is
+intended solely for the individual or entity to whom it is addressed and may
+contain confidential and/or legally privileged information which
+confidentiality and/or privilege is not lost or waived by reason of mistaken
+transmission . If you have received this message by error you are not
+authorized to view disseminate distribute or copy the message without the
+written consent of KAPS and are requested to contact the sender by telephone
+or e-mail and destroy the original. AlthoughKAPStakes all reasonable
+precautions to ensure that this message and any file transmitted with it is
+virus free, KAPS accepts no liability for any damage that may be caused by
+any virus transmitted by this email.
+
+
+--B_ALT_5729677575be6
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+&lt;h2 style=3D&quot;text-align: center; color: #ff6601&quot;&gt;KAPS Vulcan&lt;/h2&gt;Hello &lt;b&gt;A=
+ssembly Tester, &lt;/b&gt;&lt;br/&gt;You have an equipment assembly management task ass=
+igned to you by Assembly Tester for Equipment TEST_EQ_NO_1. &lt;br/&gt;You will b=
+e expected to perform and report on progress of task within the stipulated =
+duration&lt;p&gt; For more details please log on to your &lt;a href =3D&quot;http://local=
+host/vulcan/index.php&quot;&gt; KAPS Vulcan &lt;/a&gt; portal&lt;/p&gt;&lt;p&gt;KAPS Vulcan&lt;/p&gt;&lt;div s=
+tyle =3D &quot;font-style:italic; color:#607D8B; border-top:2px dashed;&quot;&gt;&lt;h4&gt; Di=
+sclamer&lt;/h4&gt;&lt;p&gt;This email message and any file(s) transmitted with it is in=
+tended solely for the individual or entity to whom it is addressed and may =
+contain confidential and/or legally privileged information which confidenti=
+ality and/or privilege is not lost or waived by reason of mistaken transmis=
+sion . If you have received this message by error you are not authorized to=
+ view disseminate distribute or copy the message without the written consen=
+t of KAPS and are requested to contact the sender by telephone or e-mail an=
+d destroy the original. AlthoughKAPStakes all reasonable precautions to ens=
+ure that this message and any file transmitted with it is virus free, KAPS =
+accepts no liability for any damage that may be caused by any virus transmi=
+tted by this email.&lt;/p&gt;&lt;/div&gt;
+
+--B_ALT_5729677575be6--</pre>%
+2016-05-04 16:03:06|::1|Failed to send email to maynedev@gmail.comERROR:: The following SMTP error was encountered: 110 Connection timed out<br />Unable to send data: AUTH LOGIN<br />Failed to send AUTH LOGIN command. Error: <br />Unable to send data: MAIL FROM:<wkmania1@gmail.com><br /><pre>from: </pre>The following SMTP error was encountered: <br />Unable to send data: RCPT TO:<maynedev@gmail.com><br /><pre>to: </pre>The following SMTP error was encountered: <br />Unable to send data: DATA<br /><pre>data: </pre>The following SMTP error was encountered: <br />Unable to send data: User-Agent: CodeIgniter
+Date: Wed, 4 May 2016 16:02:44 +0300
+From: "KAPS Vulcan" <wkmania1@gmail.com>
+Return-Path: <wkmania1@gmail.com>
+To: maynedev@gmail.com
+Subject: =?iso-8859-1?Q?Ticket_Assignment?=
+Reply-To: "wkmania1@gmail.com" <wkmania1@gmail.com>
+X-Sender: wkmania1@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: <5729f2f45e2dc@gmail.com>
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="B_ALT_5729f2f45e31a"
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_5729f2f45e31a
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+KAPS VulcanHello Murungi Wilson, You have been assigned a new ticket by
+Murungi Wilson. TICKET DETAILS TITLE:Power failure ASSIGNMENT
+TIME:2016-05-04 16:05:44 SITE NAME:Test Site DUE TIME: 2016-05-04 15:05:21
+PRIORITY: 3 PROBLEM: There was lightening that struck our masks and the
+servers are down Role: For more details please log on to your KAPS Vulcan
+portalKAPS Vulcan DisclamerThis email message and any file(s) transmitted
+with it is intended solely for the individual or entity to whom it is
+addressed and may contain confidential and/or legally privileged information
+which confidentiality and/or privilege is not lost or waived by reason of
+mistaken transmission . If you have received this message by error you are
+not authorized to view disseminate distribute or copy the message without
+the written consent of KAPS and are requested to contact the sender by
+telephone or e-mail and destroy the original. AlthoughKAPStakes all
+reasonable precautions to ensure that this message and any file transmitted
+with it is virus free, KAPS accepts no liability for any damage that may be
+caused by any virus transmitted by this email.
+
+
+--B_ALT_5729f2f45e31a
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<h2 style=3D"text-align: center; color: #ff6601">KAPS Vulcan</h2>Hello <b>M=
+urungi Wilson, </b><br/>You have been assigned a new ticket by Murungi Wils=
+on. <br/><b>TICKET DETAILS</b><br/> TITLE:Power failure<br/> ASSIGNMENT TIM=
+E:2016-05-04 16:05:44<br/> SITE NAME:Test Site<br/> DUE TIME: 2016-05-04 15=
+:05:21<br/> PRIORITY: 3<br/> PROBLEM: There was lightening that struck our =
+masks and the servers are down<br/> Role: <br/><p> For more details please =
+log on to your <a href =3D"http://localhost/vulcan/index.php"> KAPS Vulcan =
+</a> portal</p><p>KAPS Vulcan</p><div style =3D "font-style:italic; color:#=
+607D8B; border-top:2px dashed;"><h4> Disclamer</h4><p>This email message an=
+d any file(s) transmitted with it is intended solely for the individual or =
+entity to whom it is addressed and may contain confidential and/or legally =
+privileged information which confidentiality and/or privilege is not lost o=
+r waived by reason of mistaken transmission . If you have received this mes=
+sage by error you are not authorized to view disseminate distribute or copy=
+ the message without the written consent of KAPS and are requested to conta=
+ct the sender by telephone or e-mail and destroy the original. AlthoughKAPS=
+takes all reasonable precautions to ensure that this message and any file t=
+ransmitted with it is virus free, KAPS accepts no liability for any damage =
+that may be caused by any virus transmitted by this email.</p></div>
+
+--B_ALT_5729f2f45e31a--<br />Unable to send data: .<br /><br />The following SMTP error was encountered: <br />Unable to send email using PHP SMTP.  Your server might not be configured to send mail using this method.<br /><pre>User-Agent: CodeIgniter
+Date: Wed, 4 May 2016 16:02:44 +0300
+From: &quot;KAPS Vulcan&quot; &lt;wkmania1@gmail.com&gt;
+Return-Path: &lt;wkmania1@gmail.com&gt;
+To: maynedev@gmail.com
+Subject: =?iso-8859-1?Q?Ticket_Assignment?=
+Reply-To: &quot;wkmania1@gmail.com&quot; &lt;wkmania1@gmail.com&gt;
+X-Sender: wkmania1@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;5729f2f45e2dc@gmail.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_5729f2f45e31a&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_5729f2f45e31a
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+KAPS VulcanHello Murungi Wilson, You have been assigned a new ticket by
+Murungi Wilson. TICKET DETAILS TITLE:Power failure ASSIGNMENT
+TIME:2016-05-04 16:05:44 SITE NAME:Test Site DUE TIME: 2016-05-04 15:05:21
+PRIORITY: 3 PROBLEM: There was lightening that struck our masks and the
+servers are down Role: For more details please log on to your KAPS Vulcan
+portalKAPS Vulcan DisclamerThis email message and any file(s) transmitted
+with it is intended solely for the individual or entity to whom it is
+addressed and may contain confidential and/or legally privileged information
+which confidentiality and/or privilege is not lost or waived by reason of
+mistaken transmission . If you have received this message by error you are
+not authorized to view disseminate distribute or copy the message without
+the written consent of KAPS and are requested to contact the sender by
+telephone or e-mail and destroy the original. AlthoughKAPStakes all
+reasonable precautions to ensure that this message and any file transmitted
+with it is virus free, KAPS accepts no liability for any damage that may be
+caused by any virus transmitted by this email.
+
+
+--B_ALT_5729f2f45e31a
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+&lt;h2 style=3D&quot;text-align: center; color: #ff6601&quot;&gt;KAPS Vulcan&lt;/h2&gt;Hello &lt;b&gt;M=
+urungi Wilson, &lt;/b&gt;&lt;br/&gt;You have been assigned a new ticket by Murungi Wils=
+on. &lt;br/&gt;&lt;b&gt;TICKET DETAILS&lt;/b&gt;&lt;br/&gt; TITLE:Power failure&lt;br/&gt; ASSIGNMENT TIM=
+E:2016-05-04 16:05:44&lt;br/&gt; SITE NAME:Test Site&lt;br/&gt; DUE TIME: 2016-05-04 15=
+:05:21&lt;br/&gt; PRIORITY: 3&lt;br/&gt; PROBLEM: There was lightening that struck our =
+masks and the servers are down&lt;br/&gt; Role: &lt;br/&gt;&lt;p&gt; For more details please =
+log on to your &lt;a href =3D&quot;http://localhost/vulcan/index.php&quot;&gt; KAPS Vulcan =
+&lt;/a&gt; portal&lt;/p&gt;&lt;p&gt;KAPS Vulcan&lt;/p&gt;&lt;div style =3D &quot;font-style:italic; color:#=
+607D8B; border-top:2px dashed;&quot;&gt;&lt;h4&gt; Disclamer&lt;/h4&gt;&lt;p&gt;This email message an=
+d any file(s) transmitted with it is intended solely for the individual or =
+entity to whom it is addressed and may contain confidential and/or legally =
+privileged information which confidentiality and/or privilege is not lost o=
+r waived by reason of mistaken transmission . If you have received this mes=
+sage by error you are not authorized to view disseminate distribute or copy=
+ the message without the written consent of KAPS and are requested to conta=
+ct the sender by telephone or e-mail and destroy the original. AlthoughKAPS=
+takes all reasonable precautions to ensure that this message and any file t=
+ransmitted with it is virus free, KAPS accepts no liability for any damage =
+that may be caused by any virus transmitted by this email.&lt;/p&gt;&lt;/div&gt;
+
+--B_ALT_5729f2f45e31a--</pre>%
+2016-05-13 00:07:38|::1|Failed to send email to murungijnr@gmail.comERROR:: The following SMTP error was encountered: 0 <br />Unable to send data: AUTH LOGIN<br />Failed to send AUTH LOGIN command. Error: <br />Unable to send data: MAIL FROM:<wkmania1@gmail.com><br /><pre>from: </pre>The following SMTP error was encountered: <br />Unable to send data: RCPT TO:<murungijnr@gmail.com><br /><pre>to: </pre>The following SMTP error was encountered: <br />Unable to send data: DATA<br /><pre>data: </pre>The following SMTP error was encountered: <br />Unable to send data: User-Agent: CodeIgniter
+Date: Fri, 13 May 2016 00:07:32 +0300
+From: "KAPS Vulcan" <wkmania1@gmail.com>
+Return-Path: <wkmania1@gmail.com>
+To: murungijnr@gmail.com
+Subject: =?iso-8859-1?Q?Ticket_Assignment?=
+Reply-To: "wkmania1@gmail.com" <wkmania1@gmail.com>
+X-Sender: wkmania1@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: <5734f094cbe87@gmail.com>
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="B_ALT_5734f094cbed1"
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_5734f094cbed1
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+KAPS VulcanHello Technician Test, You have been assigned a new ticket by
+Murungi Wilson. TICKET DETAILS TITLE:Power failure ASSIGNMENT
+TIME:2016-05-13 00:05:32 SITE NAME:Test Site DUE TIME: 2016-05-10 00:00:00
+PRIORITY: 3 PROBLEM: There was lightening that struck our masts and the
+servers are down Role: For more details please log on to your KAPS Vulcan
+portalKAPS Vulcan DisclamerThis email message and any file(s) transmitted
+with it is intended solely for the individual or entity to whom it is
+addressed and may contain confidential and/or legally privileged information
+which confidentiality and/or privilege is not lost or waived by reason of
+mistaken transmission . If you have received this message by error you are
+not authorized to view disseminate distribute or copy the message without
+the written consent of KAPS and are requested to contact the sender by
+telephone or e-mail and destroy the original. AlthoughKAPStakes all
+reasonable precautions to ensure that this message and any file transmitted
+with it is virus free, KAPS accepts no liability for any damage that may be
+caused by any virus transmitted by this email.
+
+
+--B_ALT_5734f094cbed1
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<h2 style=3D"text-align: center; color: #ff6601">KAPS Vulcan</h2>Hello <b>T=
+echnician Test, </b><br/>You have been assigned a new ticket by Murungi Wil=
+son. <br/><b>TICKET DETAILS</b><br/> TITLE:Power failure<br/> ASSIGNMENT TI=
+ME:2016-05-13 00:05:32<br/> SITE NAME:Test Site<br/> DUE TIME: 2016-05-10 0=
+0:00:00<br/> PRIORITY: 3<br/> PROBLEM: There was lightening that struck our=
+ masts and the servers are down<br/> Role: <br/><p> For more details please=
+ log on to your <a href =3D"http://localhost/vulcan/index.php"> KAPS Vulcan=
+ </a> portal</p><p>KAPS Vulcan</p><div style =3D "font-style:italic; color:=
+#607D8B; border-top:2px dashed;"><h4> Disclamer</h4><p>This email message a=
+nd any file(s) transmitted with it is intended solely for the individual or=
+ entity to whom it is addressed and may contain confidential and/or legally=
+ privileged information which confidentiality and/or privilege is not lost =
+or waived by reason of mistaken transmission . If you have received this me=
+ssage by error you are not authorized to view disseminate distribute or cop=
+y the message without the written consent of KAPS and are requested to cont=
+act the sender by telephone or e-mail and destroy the original. AlthoughKAP=
+Stakes all reasonable precautions to ensure that this message and any file =
+transmitted with it is virus free, KAPS accepts no liability for any damage=
+ that may be caused by any virus transmitted by this email.</p></div>
+
+--B_ALT_5734f094cbed1--<br />Unable to send data: .<br /><br />The following SMTP error was encountered: <br />Unable to send email using PHP SMTP.  Your server might not be configured to send mail using this method.<br /><pre>User-Agent: CodeIgniter
+Date: Fri, 13 May 2016 00:07:32 +0300
+From: &quot;KAPS Vulcan&quot; &lt;wkmania1@gmail.com&gt;
+Return-Path: &lt;wkmania1@gmail.com&gt;
+To: murungijnr@gmail.com
+Subject: =?iso-8859-1?Q?Ticket_Assignment?=
+Reply-To: &quot;wkmania1@gmail.com&quot; &lt;wkmania1@gmail.com&gt;
+X-Sender: wkmania1@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;5734f094cbe87@gmail.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_5734f094cbed1&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_5734f094cbed1
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+KAPS VulcanHello Technician Test, You have been assigned a new ticket by
+Murungi Wilson. TICKET DETAILS TITLE:Power failure ASSIGNMENT
+TIME:2016-05-13 00:05:32 SITE NAME:Test Site DUE TIME: 2016-05-10 00:00:00
+PRIORITY: 3 PROBLEM: There was lightening that struck our masts and the
+servers are down Role: For more details please log on to your KAPS Vulcan
+portalKAPS Vulcan DisclamerThis email message and any file(s) transmitted
+with it is intended solely for the individual or entity to whom it is
+addressed and may contain confidential and/or legally privileged information
+which confidentiality and/or privilege is not lost or waived by reason of
+mistaken transmission . If you have received this message by error you are
+not authorized to view disseminate distribute or copy the message without
+the written consent of KAPS and are requested to contact the sender by
+telephone or e-mail and destroy the original. AlthoughKAPStakes all
+reasonable precautions to ensure that this message and any file transmitted
+with it is virus free, KAPS accepts no liability for any damage that may be
+caused by any virus transmitted by this email.
+
+
+--B_ALT_5734f094cbed1
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+&lt;h2 style=3D&quot;text-align: center; color: #ff6601&quot;&gt;KAPS Vulcan&lt;/h2&gt;Hello &lt;b&gt;T=
+echnician Test, &lt;/b&gt;&lt;br/&gt;You have been assigned a new ticket by Murungi Wil=
+son. &lt;br/&gt;&lt;b&gt;TICKET DETAILS&lt;/b&gt;&lt;br/&gt; TITLE:Power failure&lt;br/&gt; ASSIGNMENT TI=
+ME:2016-05-13 00:05:32&lt;br/&gt; SITE NAME:Test Site&lt;br/&gt; DUE TIME: 2016-05-10 0=
+0:00:00&lt;br/&gt; PRIORITY: 3&lt;br/&gt; PROBLEM: There was lightening that struck our=
+ masts and the servers are down&lt;br/&gt; Role: &lt;br/&gt;&lt;p&gt; For more details please=
+ log on to your &lt;a href =3D&quot;http://localhost/vulcan/index.php&quot;&gt; KAPS Vulcan=
+ &lt;/a&gt; portal&lt;/p&gt;&lt;p&gt;KAPS Vulcan&lt;/p&gt;&lt;div style =3D &quot;font-style:italic; color:=
+#607D8B; border-top:2px dashed;&quot;&gt;&lt;h4&gt; Disclamer&lt;/h4&gt;&lt;p&gt;This email message a=
+nd any file(s) transmitted with it is intended solely for the individual or=
+ entity to whom it is addressed and may contain confidential and/or legally=
+ privileged information which confidentiality and/or privilege is not lost =
+or waived by reason of mistaken transmission . If you have received this me=
+ssage by error you are not authorized to view disseminate distribute or cop=
+y the message without the written consent of KAPS and are requested to cont=
+act the sender by telephone or e-mail and destroy the original. AlthoughKAP=
+Stakes all reasonable precautions to ensure that this message and any file =
+transmitted with it is virus free, KAPS accepts no liability for any damage=
+ that may be caused by any virus transmitted by this email.&lt;/p&gt;&lt;/div&gt;
+
+--B_ALT_5734f094cbed1--</pre>%
+2016-05-19 17:28:18|::1|Failed to send email to maynedev@gmail.comERROR:: The following SMTP error was encountered: 0 php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution<br />Unable to send data: AUTH LOGIN<br />Failed to send AUTH LOGIN command. Error: <br />Unable to send data: MAIL FROM:<wkmania1@gmail.com><br /><pre>from: </pre>The following SMTP error was encountered: <br />Unable to send data: RCPT TO:<maynedev@gmail.com><br /><pre>to: </pre>The following SMTP error was encountered: <br />Unable to send data: DATA<br /><pre>data: </pre>The following SMTP error was encountered: <br />Unable to send data: User-Agent: CodeIgniter
+Date: Thu, 19 May 2016 17:28:18 +0300
+From: "KAPS Vulcan" <wkmania1@gmail.com>
+Return-Path: <wkmania1@gmail.com>
+To: maynedev@gmail.com
+Subject: =?iso-8859-1?Q?{AUTHORIZED}_project_request_approved?=
+Reply-To: "wkmania1@gmail.com" <wkmania1@gmail.com>
+X-Sender: wkmania1@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: <573dcd82199de@gmail.com>
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="B_ALT_573dcd8219a1c"
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_573dcd8219a1c
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+KAPS VulcanHello Murungi Wilson, Authorised to go ahead For more details
+please log on to your KAPS Vulcan portalKAPS Vulcan DisclamerThis email
+message and any file(s) transmitted with it is intended solely for the
+individual or entity to whom it is addressed and may contain confidential
+and/or legally privileged information which confidentiality and/or privilege
+is not lost or waived by reason of mistaken transmission . If you have
+received this message by error you are not authorized to view disseminate
+distribute or copy the message without the written consent of KAPS and are
+requested to contact the sender by telephone or e-mail and destroy the
+original. AlthoughKAPStakes all reasonable precautions to ensure that this
+message and any file transmitted with it is virus free, KAPS accepts no
+liability for any damage that may be caused by any virus transmitted by this
+email.
+
+
+--B_ALT_573dcd8219a1c
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<h2 style=3D"text-align: center; color: #ff6601">KAPS Vulcan</h2>Hello <b>M=
+urungi Wilson, </b><br/>Authorised to go ahead<p> For more details please l=
+og on to your <a href =3D"http://localhost/vulcan/index.php"> KAPS Vulcan <=
+/a> portal</p><p>KAPS Vulcan</p><div style =3D "font-style:italic; color:#6=
+07D8B; border-top:2px dashed;"><h4> Disclamer</h4><p>This email message and=
+ any file(s) transmitted with it is intended solely for the individual or e=
+ntity to whom it is addressed and may contain confidential and/or legally p=
+rivileged information which confidentiality and/or privilege is not lost or=
+ waived by reason of mistaken transmission . If you have received this mess=
+age by error you are not authorized to view disseminate distribute or copy =
+the message without the written consent of KAPS and are requested to contac=
+t the sender by telephone or e-mail and destroy the original. AlthoughKAPSt=
+akes all reasonable precautions to ensure that this message and any file tr=
+ansmitted with it is virus free, KAPS accepts no liability for any damage t=
+hat may be caused by any virus transmitted by this email.</p></div>
+
+--B_ALT_573dcd8219a1c--<br />Unable to send data: .<br /><br />The following SMTP error was encountered: <br />Unable to send email using PHP SMTP.  Your server might not be configured to send mail using this method.<br /><pre>User-Agent: CodeIgniter
+Date: Thu, 19 May 2016 17:28:18 +0300
+From: &quot;KAPS Vulcan&quot; &lt;wkmania1@gmail.com&gt;
+Return-Path: &lt;wkmania1@gmail.com&gt;
+To: maynedev@gmail.com
+Subject: =?iso-8859-1?Q?{AUTHORIZED}_project_request_approved?=
+Reply-To: &quot;wkmania1@gmail.com&quot; &lt;wkmania1@gmail.com&gt;
+X-Sender: wkmania1@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;573dcd82199de@gmail.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_573dcd8219a1c&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_573dcd8219a1c
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+KAPS VulcanHello Murungi Wilson, Authorised to go ahead For more details
+please log on to your KAPS Vulcan portalKAPS Vulcan DisclamerThis email
+message and any file(s) transmitted with it is intended solely for the
+individual or entity to whom it is addressed and may contain confidential
+and/or legally privileged information which confidentiality and/or privilege
+is not lost or waived by reason of mistaken transmission . If you have
+received this message by error you are not authorized to view disseminate
+distribute or copy the message without the written consent of KAPS and are
+requested to contact the sender by telephone or e-mail and destroy the
+original. AlthoughKAPStakes all reasonable precautions to ensure that this
+message and any file transmitted with it is virus free, KAPS accepts no
+liability for any damage that may be caused by any virus transmitted by this
+email.
+
+
+--B_ALT_573dcd8219a1c
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+&lt;h2 style=3D&quot;text-align: center; color: #ff6601&quot;&gt;KAPS Vulcan&lt;/h2&gt;Hello &lt;b&gt;M=
+urungi Wilson, &lt;/b&gt;&lt;br/&gt;Authorised to go ahead&lt;p&gt; For more details please l=
+og on to your &lt;a href =3D&quot;http://localhost/vulcan/index.php&quot;&gt; KAPS Vulcan &lt;=
+/a&gt; portal&lt;/p&gt;&lt;p&gt;KAPS Vulcan&lt;/p&gt;&lt;div style =3D &quot;font-style:italic; color:#6=
+07D8B; border-top:2px dashed;&quot;&gt;&lt;h4&gt; Disclamer&lt;/h4&gt;&lt;p&gt;This email message and=
+ any file(s) transmitted with it is intended solely for the individual or e=
+ntity to whom it is addressed and may contain confidential and/or legally p=
+rivileged information which confidentiality and/or privilege is not lost or=
+ waived by reason of mistaken transmission . If you have received this mess=
+age by error you are not authorized to view disseminate distribute or copy =
+the message without the written consent of KAPS and are requested to contac=
+t the sender by telephone or e-mail and destroy the original. AlthoughKAPSt=
+akes all reasonable precautions to ensure that this message and any file tr=
+ansmitted with it is virus free, KAPS accepts no liability for any damage t=
+hat may be caused by any virus transmitted by this email.&lt;/p&gt;&lt;/div&gt;
+
+--B_ALT_573dcd8219a1c--</pre>%

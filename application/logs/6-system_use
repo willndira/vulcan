@@ -1,0 +1,49 @@
+2016-05-01 06:55:46|::1|logged into the system%
+2016-05-01 12:31:47|::1|logged into the system%
+2016-05-01 14:25:15|::1|logged out of the system%
+2016-05-01 15:28:04|192.168.0.102|logged into the system%
+2016-05-01 15:28:46|192.168.0.102|logged out of the system%
+2016-05-01 16:18:18|192.168.0.102|logged into the system%
+2016-05-01 17:31:52|192.168.0.102|logged out of the system%
+2016-05-02 17:09:52|::1|logged into the system%
+2016-05-02 17:45:21|::1|logged out of the system%
+2016-05-03 03:57:27|::1|logged into the system%
+2016-05-03 04:53:04|::1|logged out of the system%
+2016-05-03 04:55:30|::1|logged into the system%
+2016-05-03 05:00:07|::1|installation initialized :: Equipment no. TEST_EQ_NO_1%
+2016-05-03 14:02:37|::1|logged into the system%
+2016-05-03 15:15:56|::1|Assembly task Creating a new task created :: Equipment no. TEST_EQ_NO_1%
+2016-05-03 15:57:31|::1|Requested assets from another store%
+2016-05-03 16:24:49|::1|Testing process marked
+            complete :: Equipment no. TEST_EQ_NO_1%
+2016-05-03 16:27:29|::1|installation testing initialized :: Equipment no. TEST_EQ_NO_1%
+2016-05-03 16:34:44|::1|installation initialized :: Equipment no. TEST_EQ_NO_2%
+2016-05-03 16:36:16|::1|Requested assets from another store%
+2016-05-03 16:38:49|::1|Assembly task Request components created :: Equipment no. TEST_EQ_NO_2%
+2016-05-03 16:39:20|::1|Testing process marked
+            complete :: Equipment no. TEST_EQ_NO_2%
+2016-05-03 16:44:57|::1|installation testing initialized :: Equipment no. TEST_EQ_NO_2%
+2016-05-04 06:23:47|::1|logged into the system%
+2016-05-10 15:05:58|192.168.0.90|logged into the system%
+2016-05-10 15:06:33|192.168.0.90|logged out of the system%
+2016-05-10 15:08:46|192.168.0.90|logged into the system%
+2016-05-10 15:09:53|192.168.0.90|logged out of the system%
+2016-05-10 15:12:35|192.168.0.90|logged into the system%
+2016-05-10 15:13:19|192.168.0.90|logged out of the system%
+2016-05-10 15:34:52|192.168.0.90|logged into the system%
+2016-05-10 15:35:30|192.168.0.90|logged out of the system%
+2016-05-10 15:42:34|192.168.0.90|logged into the system%
+2016-05-10 15:43:17|192.168.0.90|logged out of the system%
+2016-05-10 15:45:24|192.168.0.90|logged into the system%
+2016-05-10 15:46:08|192.168.0.90|logged out of the system%
+2016-05-10 15:46:40|192.168.0.90|logged into the system%
+2016-05-10 15:49:18|192.168.0.90|installation initialized :: Equipment no. EQUIP_XX_11%
+2016-05-10 15:49:41|192.168.0.90|logged out of the system%
+2016-05-10 15:53:52|192.168.0.90|logged into the system%
+2016-05-10 15:58:20|192.168.0.90|logged out of the system%
+2016-05-10 15:59:51|::1|logged into the system%
+2016-05-10 16:00:22|192.168.0.90|logged into the system%
+2016-05-10 16:03:02|192.168.0.90|logged out of the system%
+2016-05-10 16:03:14|::1|logged out of the system%
+2016-05-11 12:10:48|::1|logged into the system%
+2016-05-11 17:15:38|::1|logged into the system%
